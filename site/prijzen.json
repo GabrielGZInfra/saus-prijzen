@@ -1,0 +1,895 @@
+{
+ "bijgewerkt": "2026-10-12T15:16:16.625Z",
+ "bron": "https://www.anytymeveldwijk.nl/",
+ "aantal": 148,
+ "gerechten": [
+  {
+   "id": "168",
+   "naam": "FRITES NORMAAL",
+   "categorie": "🍟FRITES",
+   "prijs": 2.75
+  },
+  {
+   "id": "169",
+   "naam": "FRITES GROOT",
+   "categorie": "🍟FRITES",
+   "prijs": 4.5
+  },
+  {
+   "id": "170",
+   "naam": "GEZINSZAK FRITES",
+   "categorie": "🍟FRITES",
+   "prijs": 7.5
+  },
+  {
+   "id": "175",
+   "naam": "VLEESKROKET",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.2
+  },
+  {
+   "id": "179",
+   "naam": "FRIKANDEL",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.2
+  },
+  {
+   "id": "180",
+   "naam": "FRIKANDEL SPECIAAL",
+   "categorie": "🌭SNACKS",
+   "prijs": 3.25
+  },
+  {
+   "id": "181",
+   "naam": "XXL FRIKANDEL",
+   "categorie": "🌭SNACKS",
+   "prijs": 4.75
+  },
+  {
+   "id": "182",
+   "naam": "XXL FRIKANDEL SPECIAAL",
+   "categorie": "🌭SNACKS",
+   "prijs": 5.25
+  },
+  {
+   "id": "183",
+   "naam": "BAMISCHIJF",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.85
+  },
+  {
+   "id": "273",
+   "naam": "Fritessaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "274",
+   "naam": "Brandermayonaise",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "314",
+   "naam": "CATAMARAN",
+   "categorie": "LOADED PLATES",
+   "prijs": 7.95
+  },
+  {
+   "id": "494",
+   "naam": "Joppiesaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "495",
+   "naam": "Speciaal met currysaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "496",
+   "naam": "Oorlogsaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "497",
+   "naam": "Satésaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "611",
+   "naam": "SOUFFLESSE KAAS",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "698",
+   "naam": "KINDERBOX",
+   "categorie": "👶 KINDERBOX",
+   "prijs": 6.95
+  },
+  {
+   "id": "699",
+   "naam": "TWISTER FRIES",
+   "categorie": "🍟FRITES",
+   "prijs": 3.75
+  },
+  {
+   "id": "700",
+   "naam": "AARDAPPELSCHIJFJES",
+   "categorie": "🍟FRITES",
+   "prijs": 3.75
+  },
+  {
+   "id": "701",
+   "naam": "KIPNUGGETS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "702",
+   "naam": "ONION RINGS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "705",
+   "naam": "BITTERBALLEN VAN HET HUIS (6)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.95
+  },
+  {
+   "id": "707",
+   "naam": "VAN DOBBEN KALFSCROQUET",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "708",
+   "naam": "SATÉKROKET",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "710",
+   "naam": "KROKET VAN HET HUIS",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "711",
+   "naam": "NASISCHIJF",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.85
+  },
+  {
+   "id": "712",
+   "naam": "KIPKORN",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "713",
+   "naam": "SHOARMAROL",
+   "categorie": "🌭SNACKS",
+   "prijs": 3.25
+  },
+  {
+   "id": "716",
+   "naam": "MEXICANO",
+   "categorie": "🌭SNACKS",
+   "prijs": 3.25
+  },
+  {
+   "id": "717",
+   "naam": "BEREHAP",
+   "categorie": "🌭SNACKS",
+   "prijs": 4.25
+  },
+  {
+   "id": "719",
+   "naam": "PIKANTO",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "721",
+   "naam": "VIANDEL",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "723",
+   "naam": "LOEMPIA",
+   "categorie": "🌭SNACKS",
+   "prijs": 4.75
+  },
+  {
+   "id": "724",
+   "naam": "LOEMPIA SPECIAAL",
+   "categorie": "🌭SNACKS",
+   "prijs": 5.95
+  },
+  {
+   "id": "726",
+   "naam": "PITTIGE BAMISCHIJF",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "727",
+   "naam": "PITTIGE NASISCHIJF",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "728",
+   "naam": "VEGAKROKET",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "740",
+   "naam": "HETE KIP",
+   "categorie": "LOADED PLATES",
+   "prijs": 13.5
+  },
+  {
+   "id": "741",
+   "naam": "KIPSATE",
+   "categorie": "LOADED PLATES",
+   "prijs": 13.5
+  },
+  {
+   "id": "743",
+   "naam": "CRUNCHY KIPSALON",
+   "categorie": "LOADED PLATES",
+   "prijs": 12.5
+  },
+  {
+   "id": "746",
+   "naam": "BROODJE GEZOND",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 7.95
+  },
+  {
+   "id": "749",
+   "naam": "BROODJE KIPSATE",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 8.5
+  },
+  {
+   "id": "750",
+   "naam": "BROODJE HETE KIP",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 8.5
+  },
+  {
+   "id": "751",
+   "naam": "BROODJE WARMVLEES",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 8.95
+  },
+  {
+   "id": "766",
+   "naam": "COCA-COLA",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "767",
+   "naam": "COCA-COLA ZERO",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "768",
+   "naam": "COCA-COLA ZERO CHERRY",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "769",
+   "naam": "COCA-COLA CHERRY",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "770",
+   "naam": "FANTA ORANGE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "771",
+   "naam": "FANTA ORANGE ZERO SUGAR",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "772",
+   "naam": "FANTA LEMON ZERO SUGAR",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "773",
+   "naam": "FANTA CASSIS",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "774",
+   "naam": "FUZE TEA BLACK TEA",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "775",
+   "naam": "FUZE TEA GREEN TEA",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "776",
+   "naam": "FUZE TEA PEACH HIBISCUS",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "777",
+   "naam": "FUZE TEA GREEN TEA MANGO CHAMOMILE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "778",
+   "naam": "SPRITE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "779",
+   "naam": "FERNANDES SUPER PINEAPPLE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "780",
+   "naam": "FERNANDES CHERRY BOUQUET",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "781",
+   "naam": "FERNANDES RED GRAPE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "782",
+   "naam": "CHAUDFONTAINE SPARKLING",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "783",
+   "naam": "CHAUDFONTAINE STILL",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "784",
+   "naam": "CAPRI-SUN ORANGE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 1.5
+  },
+  {
+   "id": "799",
+   "naam": "HOTWINGS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 3.95
+  },
+  {
+   "id": "810",
+   "naam": "Appelmoes",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "811",
+   "naam": "Currysaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "812",
+   "naam": "Speciaal met ketchup",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "813",
+   "naam": "Ketchup",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "814",
+   "naam": "Warme Cheddarsaus",
+   "categorie": "🍯 SAUZEN",
+   "prijs": 1.1
+  },
+  {
+   "id": "824",
+   "naam": "CHILI & CHEESE NUGGETS (8)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "825",
+   "naam": "CAULI WINGS (8)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.95
+  },
+  {
+   "id": "826",
+   "naam": "MAC'N'CHEESE BITES (8)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.95
+  },
+  {
+   "id": "844",
+   "naam": "CHICKEN FILET BITES",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 2.95
+  },
+  {
+   "id": "846",
+   "naam": "ORIGINAL SMASH BURGER",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "847",
+   "naam": "HOT & SPICY FRIES",
+   "categorie": "LOADED FRIES",
+   "prijs": 9.95
+  },
+  {
+   "id": "848",
+   "naam": "ASIAN BBQ FRIES",
+   "categorie": "LOADED FRIES",
+   "prijs": 9.95
+  },
+  {
+   "id": "850",
+   "naam": "VEGAN SMASH BURGER",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "855",
+   "naam": "SCHNITZEL WARME SAUS",
+   "categorie": "LOADED PLATES",
+   "prijs": 14.95
+  },
+  {
+   "id": "856",
+   "naam": "SCHNITZEL BUITENGOOIER",
+   "categorie": "LOADED PLATES",
+   "prijs": 14.95
+  },
+  {
+   "id": "857",
+   "naam": "HOUTHAKKERSCHNITZEL",
+   "categorie": "LOADED PLATES",
+   "prijs": 14.95
+  },
+  {
+   "id": "858",
+   "naam": "JALAPENO CRUNCH SMASH",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "859",
+   "naam": "JOPPIE BACON SMASH",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "860",
+   "naam": "SJIEK DE FRITES",
+   "categorie": "LOADED FRIES",
+   "prijs": 9.95
+  },
+  {
+   "id": "861",
+   "naam": "THE ORIGINAL",
+   "categorie": "LOADED FRIES",
+   "prijs": 9.95
+  },
+  {
+   "id": "863",
+   "naam": "LOADED ONION RINGS CHEESY JALAPEÑO",
+   "categorie": "LOADED ONION RINGS",
+   "prijs": 7.95
+  },
+  {
+   "id": "864",
+   "naam": "LOADED ONION RINGS TURKEY B.L.T.",
+   "categorie": "LOADED ONION RINGS",
+   "prijs": 7.95
+  },
+  {
+   "id": "865",
+   "naam": "LOADED ONION RINGS KOREAN BBQ KIMCHI",
+   "categorie": "LOADED ONION RINGS",
+   "prijs": 7.95
+  },
+  {
+   "id": "866",
+   "naam": "FRITES WARMVLEES",
+   "categorie": "LOADED PLATES",
+   "prijs": 7.95
+  },
+  {
+   "id": "867",
+   "naam": "BOERENFRIET",
+   "categorie": "LOADED PLATES",
+   "prijs": 7.95
+  },
+  {
+   "id": "868",
+   "naam": "JALAPEÑO CRUNCHY CHICKEN",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "869",
+   "naam": "PEPPER CHICKEN",
+   "categorie": "🍔BURGERS",
+   "prijs": 10.95
+  },
+  {
+   "id": "870",
+   "naam": "MONSTER ENERGY",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.95
+  },
+  {
+   "id": "871",
+   "naam": "MONSTER ENERGY MANGO LOCO",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.95
+  },
+  {
+   "id": "872",
+   "naam": "CRISPY KIMCHI DELUXE",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "873",
+   "naam": "VEGAN GREEN CRUNCH BURGER",
+   "categorie": "🍔BURGERS",
+   "prijs": 8.95
+  },
+  {
+   "id": "874",
+   "naam": "MAC SMASH STACKER",
+   "categorie": "🍔BURGERS",
+   "prijs": 10.95
+  },
+  {
+   "id": "875",
+   "naam": "NEW YORK STYLE CHOPPED CHEESE",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 9.95
+  },
+  {
+   "id": "876",
+   "naam": "FUNKY FALAFEL SANDWICH",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 8.95
+  },
+  {
+   "id": "877",
+   "naam": "MONSTER ENERGY WHITE ULTRA",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.95
+  },
+  {
+   "id": "878",
+   "naam": "SPICY SPIRAL SUPREME",
+   "categorie": "LOADED FRIES",
+   "prijs": 9.95
+  },
+  {
+   "id": "879",
+   "naam": "KAAS KIPKORN",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "880",
+   "naam": "LOADED SNACK ATTACK BOX",
+   "categorie": "🔥 SHARE & LOADED DEALS",
+   "prijs": 13.95
+  },
+  {
+   "id": "890",
+   "naam": "AMERICAN COOKIE CLASSIC",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.95
+  },
+  {
+   "id": "891",
+   "naam": "AMERICAN COOKIE DOUBLE CHOCOLATE",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.95
+  },
+  {
+   "id": "892",
+   "naam": "SUNDAE",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 3.95
+  },
+  {
+   "id": "895",
+   "naam": "MILKSHAKE KLEIN",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 3.25
+  },
+  {
+   "id": "896",
+   "naam": "MILKSHAKE MIDDEL",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.25
+  },
+  {
+   "id": "897",
+   "naam": "MILKSHAKE GROOT",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.95
+  },
+  {
+   "id": "898",
+   "naam": "CRISPY KIMCHI DEAL",
+   "categorie": "🔥 SHARE & LOADED DEALS",
+   "prijs": 12.95
+  },
+  {
+   "id": "900",
+   "naam": "MAC SMASH STACKER COMBO",
+   "categorie": "🔥 SHARE & LOADED DEALS",
+   "prijs": 18.95
+  },
+  {
+   "id": "901",
+   "naam": "DIRTY FRIES SMASH",
+   "categorie": "LOADED FRIES",
+   "prijs": 12.95
+  },
+  {
+   "id": "902",
+   "naam": "PASTRAMI CHEESE STEAK",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 12.95
+  },
+  {
+   "id": "903",
+   "naam": "VEGAN BORREL BOX",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.95
+  },
+  {
+   "id": "904",
+   "naam": "PICKLED SUNRISE",
+   "categorie": "🍔BURGERS",
+   "prijs": 10.95
+  },
+  {
+   "id": "905",
+   "naam": "RED BULL ZERO",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.95
+  },
+  {
+   "id": "906",
+   "naam": "RED BULL SUGERFREE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.95
+  },
+  {
+   "id": "907",
+   "naam": "RED BULL ENERGY",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.95
+  },
+  {
+   "id": "908",
+   "naam": "ELITE MINISNACK XL",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 6.95
+  },
+  {
+   "id": "909",
+   "naam": "LOEMPIDEL",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "910",
+   "naam": "COCA-COLA VANILLE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "911",
+   "naam": "COCA-COLA ZERO SUGAR ZERO CAFFEINE",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "912",
+   "naam": "FERNANDES GREEN PUNCH",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "913",
+   "naam": "SOUFFLESSE TOMAAT MOZZARELLA",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "914",
+   "naam": "SOUFFLESSE PIKANTE KAAS",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.75
+  },
+  {
+   "id": "915",
+   "naam": "FANTA EXOTIC ZERO SUGAR",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "917",
+   "naam": "THE TURKEY DOG",
+   "categorie": "🌭HOTDOGS",
+   "prijs": 8.95
+  },
+  {
+   "id": "918",
+   "naam": "THE KOREAN DOG",
+   "categorie": "🌭HOTDOGS",
+   "prijs": 8.95
+  },
+  {
+   "id": "924",
+   "naam": "DYNAMITE",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "925",
+   "naam": "FANTA STRAWBERRY KIWI",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.35
+  },
+  {
+   "id": "926",
+   "naam": "MILKSHAKE DELUXE KLEIN",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 3.95
+  },
+  {
+   "id": "927",
+   "naam": "MILKSHAKE DELUXE MIDDEL",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.95
+  },
+  {
+   "id": "928",
+   "naam": "MILKSHAKE DELUXE GROOT",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 5.75
+  },
+  {
+   "id": "929",
+   "naam": "VEGAN KIPKORN",
+   "categorie": "🌭SNACKS",
+   "prijs": 2.95
+  },
+  {
+   "id": "930",
+   "naam": "SUNDAE MET NUTELLA®",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.5
+  },
+  {
+   "id": "932",
+   "naam": "COCA-COLA CREAMY VANILLA",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.15
+  },
+  {
+   "id": "933",
+   "naam": "COCA-COLA ZERO SUGAR CREAMY VANILLA",
+   "categorie": "🥤 FRISDRANK",
+   "prijs": 2.15
+  },
+  {
+   "id": "934",
+   "naam": "CROQUET BURGER",
+   "categorie": "🍔BURGERS",
+   "prijs": 6.95
+  },
+  {
+   "id": "935",
+   "naam": "TORI KATSU SUB SANDO",
+   "categorie": "🥪 BELEGDE BROODJES",
+   "prijs": 9.95
+  },
+  {
+   "id": "936",
+   "naam": "KOREAN CORN RIBS (6)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "937",
+   "naam": "KAASTENGELS (8)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "938",
+   "naam": "BREADED MOZZARELLA STICKS (8)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "939",
+   "naam": "CAJUN MUSHROOM BITES (6)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.5
+  },
+  {
+   "id": "940",
+   "naam": "OESTERZWAM BITTERBALLEN (6)",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.95
+  },
+  {
+   "id": "941",
+   "naam": "RAZZLE",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.95
+  },
+  {
+   "id": "942",
+   "naam": "BEKER IJS KLEIN",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.45
+  },
+  {
+   "id": "943",
+   "naam": "BEKER IJS MIDDEL",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 5.45
+  },
+  {
+   "id": "944",
+   "naam": "BEKER IJS GROOT",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 6.45
+  }
+ ]
+}

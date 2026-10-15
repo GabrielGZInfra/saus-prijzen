@@ -1,25 +1,25 @@
 {
- "bijgewerkt": "2026-10-14T23:18:17.194Z",
+ "bijgewerkt": "2026-10-15T15:06:32.375Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 148,
+ "aantal": 158,
  "gerechten": [
   {
    "id": "168",
-   "naam": "FRITES NORMAAL",
+   "naam": "PATAT MIDDEL",
    "categorie": "🍟FRITES",
-   "prijs": 2.75
+   "prijs": 2.95
   },
   {
    "id": "169",
-   "naam": "FRITES GROOT",
+   "naam": "PATAT GROOT",
    "categorie": "🍟FRITES",
-   "prijs": 4.5
+   "prijs": 3.95
   },
   {
    "id": "170",
-   "naam": "GEZINSZAK FRITES",
+   "naam": "GEZINSZAK PATAT",
    "categorie": "🍟FRITES",
-   "prijs": 7.5
+   "prijs": 8.25
   },
   {
    "id": "175",
@@ -37,7 +37,7 @@
    "id": "180",
    "naam": "FRIKANDEL SPECIAAL",
    "categorie": "🌭SNACKS",
-   "prijs": 3.25
+   "prijs": 3
   },
   {
    "id": "181",
@@ -101,7 +101,7 @@
   },
   {
    "id": "611",
-   "naam": "SOUFFLESSE KAAS",
+   "naam": "SOUFLESSE KAAS",
    "categorie": "🌭SNACKS",
    "prijs": 2.75
   },
@@ -133,29 +133,29 @@
    "id": "702",
    "naam": "ONION RINGS",
    "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.5
+   "prijs": 3.35
   },
   {
    "id": "705",
-   "naam": "BITTERBALLEN VAN HET HUIS (6)",
+   "naam": "BITTERBALLEN",
    "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.95
+   "prijs": 4.2
   },
   {
    "id": "707",
-   "naam": "VAN DOBBEN KALFSCROQUET",
+   "naam": "KALFSVLEES CROQUET",
    "categorie": "🌭SNACKS",
-   "prijs": 2.95
+   "prijs": 2.75
   },
   {
    "id": "708",
-   "naam": "SATÉKROKET",
+   "naam": "KIPSATÉ CROQUET",
    "categorie": "🌭SNACKS",
-   "prijs": 2.95
+   "prijs": 2.75
   },
   {
    "id": "710",
-   "naam": "KROKET VAN HET HUIS",
+   "naam": "DRAADJESVLEES CROQUET",
    "categorie": "🌭SNACKS",
    "prijs": 2.75
   },
@@ -169,7 +169,7 @@
    "id": "712",
    "naam": "KIPKORN",
    "categorie": "🌭SNACKS",
-   "prijs": 2.95
+   "prijs": 2.75
   },
   {
    "id": "713",
@@ -227,9 +227,9 @@
   },
   {
    "id": "728",
-   "naam": "VEGAKROKET",
+   "naam": "VEGETARISCHE CROQUET",
    "categorie": "🌭SNACKS",
-   "prijs": 2.95
+   "prijs": 2.75
   },
   {
    "id": "740",
@@ -257,9 +257,9 @@
   },
   {
    "id": "749",
-   "naam": "BROODJE KIPSATE",
+   "naam": "SATAY",
    "categorie": "🥪 BELEGDE BROODJES",
-   "prijs": 8.5
+   "prijs": 9.95
   },
   {
    "id": "750",
@@ -425,27 +425,27 @@
   },
   {
    "id": "824",
-   "naam": "CHILI & CHEESE NUGGETS (8)",
+   "naam": "CHILI CHEESE NUGGETS",
    "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.5
+   "prijs": 3.35
   },
   {
    "id": "825",
-   "naam": "CAULI WINGS (8)",
+   "naam": "CAULI WINGS",
    "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.95
+   "prijs": 3.35
   },
   {
    "id": "826",
-   "naam": "MAC'N'CHEESE BITES (8)",
+   "naam": "MAC'N'CHEESE BITES",
    "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.95
+   "prijs": 3.35
   },
   {
    "id": "844",
-   "naam": "CHICKEN FILET BITES",
+   "naam": "CHICKEN BITES",
    "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 2.95
+   "prijs": 5.45
   },
   {
    "id": "846",
@@ -743,13 +743,13 @@
   },
   {
    "id": "913",
-   "naam": "SOUFFLESSE TOMAAT MOZZARELLA",
+   "naam": "SOUFLESSE TOMAAT MOZZARELLA",
    "categorie": "🌭SNACKS",
    "prijs": 2.75
   },
   {
    "id": "914",
-   "naam": "SOUFFLESSE PIKANTE KAAS",
+   "naam": "SOUFLESSE PIKANTE KAAS",
    "categorie": "🌭SNACKS",
    "prijs": 2.75
   },
@@ -890,6 +890,66 @@
    "naam": "BEKER IJS GROOT",
    "categorie": "🍦 IJS & SHAKES",
    "prijs": 6.45
+  },
+  {
+   "id": "945",
+   "naam": "PATAT KLEIN",
+   "categorie": "🍟FRITES",
+   "prijs": 2.6
+  },
+  {
+   "id": "946",
+   "naam": "PATAT SPECIAAL",
+   "categorie": "🍟FRITES",
+   "prijs": 3.6
+  },
+  {
+   "id": "947",
+   "naam": "PATAT OORLOG",
+   "categorie": "🍟FRITES",
+   "prijs": 3.6
+  },
+  {
+   "id": "948",
+   "naam": "CHICKEN STRIPS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 4.6
+  },
+  {
+   "id": "949",
+   "naam": "SNACKBAR!",
+   "categorie": "🌭SNACKS",
+   "prijs": 14.95
+  },
+  {
+   "id": "950",
+   "naam": "BUCKET FAMILY",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 20.95
+  },
+  {
+   "id": "951",
+   "naam": "BUCKET HOT & SPICY",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 23.95
+  },
+  {
+   "id": "952",
+   "naam": "BUCKET BONELESS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 23.95
+  },
+  {
+   "id": "953",
+   "naam": "BUCKET HOTWINGS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 18.65
+  },
+  {
+   "id": "954",
+   "naam": "BUCKET STRIPS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 21.2
   }
  ]
 }

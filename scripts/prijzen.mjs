@@ -2,7 +2,7 @@
 // Bij een fout of minder dan 50 gerechten stopt het script met een fout; de vorige prijzen.json blijft dan staan.
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 
-const BRON = process.env.PRIJZEN_BRON || "https://www.anytymeveldwijk.nl/"
+const BRON = process.env.PRIJZEN_BRON || "https://bestellen.bijsaus.nl/"
 const BESTAND = "site/prijzen.json"
 const MINIMUM = 50
 // Ook zonder prijswijziging minstens eens per 12 uur een nieuw tijdstip, zodat de site de prijzen niet als verouderd (48 uur) ziet

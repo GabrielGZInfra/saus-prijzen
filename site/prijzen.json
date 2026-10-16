@@ -1,24 +1,24 @@
 {
- "bijgewerkt": "2026-10-16T07:17:22.644Z",
+ "bijgewerkt": "2026-10-16T18:07:53.947Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 158,
+ "aantal": 150,
  "gerechten": [
   {
    "id": "168",
    "naam": "PATAT MIDDEL",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 2.95
   },
   {
    "id": "169",
    "naam": "PATAT GROOT",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 3.95
   },
   {
    "id": "170",
    "naam": "GEZINSZAK PATAT",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 8.25
   },
   {
@@ -114,13 +114,13 @@
   {
    "id": "699",
    "naam": "TWISTER FRIES",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 3.75
   },
   {
    "id": "700",
    "naam": "AARDAPPELSCHIJFJES",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 3.75
   },
   {
@@ -232,46 +232,10 @@
    "prijs": 2.75
   },
   {
-   "id": "740",
-   "naam": "HETE KIP",
-   "categorie": "LOADED PLATES",
-   "prijs": 13.5
-  },
-  {
-   "id": "741",
-   "naam": "KIPSATE",
-   "categorie": "LOADED PLATES",
-   "prijs": 13.5
-  },
-  {
-   "id": "743",
-   "naam": "CRUNCHY KIPSALON",
-   "categorie": "LOADED PLATES",
-   "prijs": 12.5
-  },
-  {
-   "id": "746",
-   "naam": "BROODJE GEZOND",
-   "categorie": "🥪 BELEGDE BROODJES",
-   "prijs": 7.95
-  },
-  {
    "id": "749",
    "naam": "SATAY",
    "categorie": "🥪 BELEGDE BROODJES",
    "prijs": 9.95
-  },
-  {
-   "id": "750",
-   "naam": "BROODJE HETE KIP",
-   "categorie": "🥪 BELEGDE BROODJES",
-   "prijs": 8.5
-  },
-  {
-   "id": "751",
-   "naam": "BROODJE WARMVLEES",
-   "categorie": "🥪 BELEGDE BROODJES",
-   "prijs": 8.95
   },
   {
    "id": "766",
@@ -430,12 +394,6 @@
    "prijs": 3.35
   },
   {
-   "id": "825",
-   "naam": "CAULI WINGS",
-   "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 3.35
-  },
-  {
    "id": "826",
    "naam": "MAC'N'CHEESE BITES",
    "categorie": "🧆 SNACK'N SHARE",
@@ -532,12 +490,6 @@
    "prijs": 7.95
   },
   {
-   "id": "866",
-   "naam": "FRITES WARMVLEES",
-   "categorie": "LOADED PLATES",
-   "prijs": 7.95
-  },
-  {
    "id": "867",
    "naam": "BOERENFRIET",
    "categorie": "LOADED PLATES",
@@ -590,12 +542,6 @@
    "naam": "NEW YORK STYLE CHOPPED CHEESE",
    "categorie": "🥪 BELEGDE BROODJES",
    "prijs": 9.95
-  },
-  {
-   "id": "876",
-   "naam": "FUNKY FALAFEL SANDWICH",
-   "categorie": "🥪 BELEGDE BROODJES",
-   "prijs": 8.95
   },
   {
    "id": "877",
@@ -894,19 +840,19 @@
   {
    "id": "945",
    "naam": "PATAT KLEIN",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 2.6
   },
   {
    "id": "946",
    "naam": "PATAT SPECIAAL",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 3.6
   },
   {
    "id": "947",
    "naam": "PATAT OORLOG",
-   "categorie": "🍟FRITES",
+   "categorie": "🍟PATAT",
    "prijs": 3.6
   },
   {
@@ -950,6 +896,12 @@
    "naam": "BUCKET STRIPS",
    "categorie": "🧆 SNACK'N SHARE",
    "prijs": 21.2
+  },
+  {
+   "id": "955",
+   "naam": "FRIED CHICKEN",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 5.95
   }
  ]
 }

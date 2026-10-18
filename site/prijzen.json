@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-17T23:11:06.436Z",
+ "bijgewerkt": "2026-10-18T11:18:17.317Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 150,
+ "aantal": 151,
  "gerechten": [
   {
    "id": "168",
@@ -902,6 +902,12 @@
    "naam": "FRIED CHICKEN",
    "categorie": "🧆 SNACK'N SHARE",
    "prijs": 5.95
+  },
+  {
+   "id": "956",
+   "naam": "CAULI WINGS",
+   "categorie": "🧆 SNACK'N SHARE",
+   "prijs": 3.35
   }
  ]
 }

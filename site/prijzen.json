@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-20T22:22:00.948Z",
+ "bijgewerkt": "2026-10-21T13:53:49.631Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 151,
+ "aantal": 150,
  "gerechten": [
   {
    "id": "168",
@@ -792,12 +792,6 @@
   {
    "id": "937",
    "naam": "KAASTENGELS (8)",
-   "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.5
-  },
-  {
-   "id": "938",
-   "naam": "BREADED MOZZARELLA STICKS (8)",
    "categorie": "🧆 SNACK'N SHARE",
    "prijs": 5.5
   },

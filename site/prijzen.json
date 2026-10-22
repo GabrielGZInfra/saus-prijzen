@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-22T07:41:22.967Z",
+ "bijgewerkt": "2026-10-22T18:36:24.499Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 150,
+ "aantal": 149,
  "gerechten": [
   {
    "id": "168",
@@ -686,12 +686,6 @@
    "naam": "FERNANDES GREEN PUNCH",
    "categorie": "🥤 FRISDRANK",
    "prijs": 2.35
-  },
-  {
-   "id": "913",
-   "naam": "SOUFLESSE TOMAAT MOZZARELLA",
-   "categorie": "🌭SNACKS",
-   "prijs": 2.75
   },
   {
    "id": "914",

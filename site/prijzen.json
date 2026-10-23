@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-23T07:38:57.645Z",
+ "bijgewerkt": "2026-10-23T13:32:30.676Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 149,
+ "aantal": 151,
  "gerechten": [
   {
    "id": "168",
@@ -784,12 +784,6 @@
    "prijs": 5.5
   },
   {
-   "id": "937",
-   "naam": "KAASTENGELS (8)",
-   "categorie": "🧆 SNACK'N SHARE",
-   "prijs": 5.5
-  },
-  {
    "id": "939",
    "naam": "CAJUN MUSHROOM BITES (6)",
    "categorie": "🧆 SNACK'N SHARE",
@@ -896,6 +890,24 @@
    "naam": "CAULI WINGS",
    "categorie": "🧆 SNACK'N SHARE",
    "prijs": 3.35
+  },
+  {
+   "id": "957",
+   "naam": "CHURROS",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.45
+  },
+  {
+   "id": "958",
+   "naam": "CHURROS MET NUTELLA®",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 4.95
+  },
+  {
+   "id": "959",
+   "naam": "BUCKET CHURROS",
+   "categorie": "🍦 IJS & SHAKES",
+   "prijs": 8.95
   }
  ]
 }

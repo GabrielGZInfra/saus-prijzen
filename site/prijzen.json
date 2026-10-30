@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-30T13:05:59.451Z",
+ "bijgewerkt": "2026-10-30T15:07:51.544Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 150,
+ "aantal": 154,
  "gerechten": [
   {
    "id": "168",
@@ -902,6 +902,30 @@
    "naam": "BUCKET CHURROS",
    "categorie": "🍦 IJS & SHAKES",
    "prijs": 10.95
+  },
+  {
+   "id": "960",
+   "naam": "THE PASTRAMI DOG",
+   "categorie": "🌭HOTDOGS",
+   "prijs": 11.95
+  },
+  {
+   "id": "961",
+   "naam": "THE CHEESY BACON DOG",
+   "categorie": "🌭HOTDOGS",
+   "prijs": 9.95
+  },
+  {
+   "id": "962",
+   "naam": "THE TEX-MEX DOG",
+   "categorie": "🌭HOTDOGS",
+   "prijs": 11.95
+  },
+  {
+   "id": "963",
+   "naam": "THE BACON WRAPPED DOG",
+   "categorie": "🌭HOTDOGS",
+   "prijs": 9.95
   }
  ]
 }

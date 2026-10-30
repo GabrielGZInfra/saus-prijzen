@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-29T18:59:57.980Z",
+ "bijgewerkt": "2026-10-30T13:05:59.451Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 151,
+ "aantal": 150,
  "gerechten": [
   {
    "id": "168",
@@ -192,12 +192,6 @@
   {
    "id": "719",
    "naam": "PIKANTO",
-   "categorie": "🌭SNACKS",
-   "prijs": 2.75
-  },
-  {
-   "id": "721",
-   "naam": "VIANDEL",
    "categorie": "🌭SNACKS",
    "prijs": 2.75
   },

@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-30T15:07:51.544Z",
+ "bijgewerkt": "2026-10-30T23:00:27.615Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 154,
+ "aantal": 156,
  "gerechten": [
   {
    "id": "168",
@@ -926,6 +926,18 @@
    "naam": "THE BACON WRAPPED DOG",
    "categorie": "🌭HOTDOGS",
    "prijs": 9.95
+  },
+  {
+   "id": "964",
+   "naam": "BORRELBOX",
+   "categorie": "💼 ZAKELIJK",
+   "prijs": 56.95
+  },
+  {
+   "id": "965",
+   "naam": "TRAKTEERBOX",
+   "categorie": "💼 ZAKELIJK",
+   "prijs": 23.75
   }
  ]
 }

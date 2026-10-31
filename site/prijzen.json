@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-10-31T15:45:35.033Z",
+ "bijgewerkt": "2026-10-31T20:02:10.058Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 156,
+ "aantal": 155,
  "gerechten": [
   {
    "id": "168",
@@ -481,12 +481,6 @@
    "id": "865",
    "naam": "LOADED ONION RINGS KOREAN BBQ KIMCHI",
    "categorie": "LOADED ONION RINGS",
-   "prijs": 7.95
-  },
-  {
-   "id": "867",
-   "naam": "BOERENFRIET",
-   "categorie": "LOADED PLATES",
    "prijs": 7.95
   },
   {

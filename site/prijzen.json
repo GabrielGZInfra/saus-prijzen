@@ -1,60 +1,60 @@
 {
- "bijgewerkt": "2026-11-04T09:25:37.864Z",
+ "bijgewerkt": "2026-11-04T18:02:09.150Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 155,
+ "aantal": 152,
  "gerechten": [
   {
    "id": "168",
    "naam": "PATAT MIDDEL",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 2.95
   },
   {
    "id": "169",
    "naam": "PATAT GROOT",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 3.95
   },
   {
    "id": "170",
    "naam": "GEZINSZAK PATAT",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 8.25
   },
   {
    "id": "175",
    "naam": "VLEESKROKET",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.2
   },
   {
    "id": "179",
    "naam": "FRIKANDEL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.2
   },
   {
    "id": "180",
    "naam": "FRIKANDEL SPECIAAL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 3
   },
   {
    "id": "181",
    "naam": "XXL FRIKANDEL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 4.75
   },
   {
    "id": "182",
    "naam": "XXL FRIKANDEL SPECIAAL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 5.25
   },
   {
    "id": "183",
    "naam": "BAMISCHIJF",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.85
   },
   {
@@ -72,7 +72,7 @@
   {
    "id": "314",
    "naam": "CATAMARAN",
-   "categorie": "LOADED PLATES",
+   "categorie": "Loaded plates",
    "prijs": 7.95
   },
   {
@@ -102,133 +102,133 @@
   {
    "id": "611",
    "naam": "SOUFLESSE KAAS",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "698",
    "naam": "KINDERBOX",
-   "categorie": "👶 KINDERBOX",
+   "categorie": "Kinderbox",
    "prijs": 6.95
   },
   {
    "id": "699",
    "naam": "TWISTER FRIES",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 3.75
   },
   {
    "id": "700",
    "naam": "AARDAPPELSCHIJFJES",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 3.75
   },
   {
    "id": "701",
    "naam": "KIPNUGGETS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.5
   },
   {
    "id": "702",
    "naam": "ONION RINGS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 3.35
   },
   {
    "id": "705",
    "naam": "BITTERBALLEN",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 4.2
   },
   {
    "id": "707",
    "naam": "KALFSVLEES CROQUET",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "708",
    "naam": "KIPSATÉ CROQUET",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "710",
    "naam": "DRAADJESVLEES CROQUET",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "711",
    "naam": "NASISCHIJF",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.85
   },
   {
    "id": "712",
    "naam": "KIPKORN",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "713",
    "naam": "SHOARMAROL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 3.25
   },
   {
    "id": "716",
    "naam": "MEXICANO",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 3.25
   },
   {
    "id": "717",
    "naam": "BEREHAP",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 4.25
   },
   {
    "id": "719",
    "naam": "PIKANTO",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "723",
    "naam": "LOEMPIA",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 4.75
   },
   {
    "id": "724",
    "naam": "LOEMPIA SPECIAAL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 5.95
   },
   {
    "id": "726",
    "naam": "PITTIGE BAMISCHIJF",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "727",
    "naam": "PITTIGE NASISCHIJF",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "728",
    "naam": "VEGETARISCHE CROQUET",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
    "id": "749",
    "naam": "SATAY",
-   "categorie": "🥪 BELEGDE BROODJES",
+   "categorie": "Belegde broodjes",
    "prijs": 9.95
   },
   {
@@ -348,7 +348,7 @@
   {
    "id": "799",
    "naam": "HOTWINGS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 3.95
   },
   {
@@ -384,115 +384,115 @@
   {
    "id": "824",
    "naam": "CHILI CHEESE NUGGETS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 3.35
   },
   {
    "id": "826",
    "naam": "MAC'N'CHEESE BITES",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 3.35
   },
   {
    "id": "844",
    "naam": "CHICKEN BITES",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.45
   },
   {
    "id": "846",
    "naam": "ORIGINAL SMASH BURGER",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "847",
    "naam": "HOT & SPICY FRIES",
-   "categorie": "LOADED FRIES",
+   "categorie": "Loaded fries",
    "prijs": 9.95
   },
   {
    "id": "848",
    "naam": "ASIAN BBQ FRIES",
-   "categorie": "LOADED FRIES",
+   "categorie": "Loaded fries",
    "prijs": 9.95
   },
   {
    "id": "850",
    "naam": "VEGAN SMASH BURGER",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "855",
    "naam": "SCHNITZEL WARME SAUS",
-   "categorie": "LOADED PLATES",
+   "categorie": "Loaded plates",
    "prijs": 14.95
   },
   {
    "id": "856",
    "naam": "SCHNITZEL BUITENGOOIER",
-   "categorie": "LOADED PLATES",
+   "categorie": "Loaded plates",
    "prijs": 14.95
   },
   {
    "id": "857",
    "naam": "HOUTHAKKERSCHNITZEL",
-   "categorie": "LOADED PLATES",
+   "categorie": "Loaded plates",
    "prijs": 14.95
   },
   {
    "id": "858",
    "naam": "JALAPENO CRUNCH SMASH",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "859",
    "naam": "JOPPIE BACON SMASH",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "860",
    "naam": "SJIEK DE FRITES",
-   "categorie": "LOADED FRIES",
+   "categorie": "Loaded fries",
    "prijs": 9.95
   },
   {
    "id": "861",
    "naam": "THE ORIGINAL",
-   "categorie": "LOADED FRIES",
+   "categorie": "Loaded fries",
    "prijs": 9.95
   },
   {
    "id": "863",
    "naam": "LOADED ONION RINGS CHEESY JALAPEÑO",
-   "categorie": "LOADED ONION RINGS",
+   "categorie": "Loaded onion rings",
    "prijs": 7.95
   },
   {
    "id": "864",
    "naam": "LOADED ONION RINGS TURKEY B.L.T.",
-   "categorie": "LOADED ONION RINGS",
+   "categorie": "Loaded onion rings",
    "prijs": 7.95
   },
   {
    "id": "865",
    "naam": "LOADED ONION RINGS KOREAN BBQ KIMCHI",
-   "categorie": "LOADED ONION RINGS",
+   "categorie": "Loaded onion rings",
    "prijs": 7.95
   },
   {
    "id": "868",
    "naam": "JALAPEÑO CRUNCHY CHICKEN",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "869",
    "naam": "PEPPER CHICKEN",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 10.95
   },
   {
@@ -510,25 +510,25 @@
   {
    "id": "872",
    "naam": "CRISPY KIMCHI DELUXE",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "873",
    "naam": "VEGAN GREEN CRUNCH BURGER",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 8.95
   },
   {
    "id": "874",
    "naam": "MAC SMASH STACKER",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 10.95
   },
   {
    "id": "875",
    "naam": "NEW YORK STYLE CHOPPED CHEESE",
-   "categorie": "🥪 BELEGDE BROODJES",
+   "categorie": "Belegde broodjes",
    "prijs": 9.95
   },
   {
@@ -540,91 +540,73 @@
   {
    "id": "878",
    "naam": "SPICY SPIRAL SUPREME",
-   "categorie": "LOADED FRIES",
+   "categorie": "Loaded fries",
    "prijs": 9.95
   },
   {
    "id": "879",
    "naam": "KAAS KIPKORN",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.95
-  },
-  {
-   "id": "880",
-   "naam": "LOADED SNACK ATTACK BOX",
-   "categorie": "🔥 SHARE & LOADED DEALS",
-   "prijs": 13.95
   },
   {
    "id": "890",
    "naam": "AMERICAN COOKIE CLASSIC",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.95
   },
   {
    "id": "891",
    "naam": "AMERICAN COOKIE DOUBLE CHOCOLATE",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.95
   },
   {
    "id": "892",
    "naam": "SUNDAE",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 3.95
   },
   {
    "id": "895",
    "naam": "MILKSHAKE KLEIN",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 3.25
   },
   {
    "id": "896",
    "naam": "MILKSHAKE MIDDEL",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.25
   },
   {
    "id": "897",
    "naam": "MILKSHAKE GROOT",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.95
-  },
-  {
-   "id": "898",
-   "naam": "CRISPY KIMCHI DEAL",
-   "categorie": "🔥 SHARE & LOADED DEALS",
-   "prijs": 12.95
-  },
-  {
-   "id": "900",
-   "naam": "MAC SMASH STACKER COMBO",
-   "categorie": "🔥 SHARE & LOADED DEALS",
-   "prijs": 18.95
   },
   {
    "id": "901",
    "naam": "DIRTY FRIES SMASH",
-   "categorie": "LOADED FRIES",
+   "categorie": "Loaded fries",
    "prijs": 12.95
   },
   {
    "id": "902",
    "naam": "PASTRAMI CHEESE STEAK",
-   "categorie": "🥪 BELEGDE BROODJES",
+   "categorie": "Belegde broodjes",
    "prijs": 12.95
   },
   {
    "id": "903",
    "naam": "VEGAN BORREL BOX",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.95
   },
   {
    "id": "904",
    "naam": "PICKLED SUNRISE",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 10.95
   },
   {
@@ -648,13 +630,13 @@
   {
    "id": "908",
    "naam": "ELITE MINISNACK XL",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 6.95
   },
   {
    "id": "909",
    "naam": "LOEMPIDEL",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.95
   },
   {
@@ -678,7 +660,7 @@
   {
    "id": "914",
    "naam": "SOUFLESSE PIKANTE KAAS",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.75
   },
   {
@@ -690,19 +672,19 @@
   {
    "id": "917",
    "naam": "THE TURKEY DOG",
-   "categorie": "🌭HOTDOGS",
+   "categorie": "Hotdogs",
    "prijs": 8.95
   },
   {
    "id": "918",
    "naam": "THE KOREAN DOG",
-   "categorie": "🌭HOTDOGS",
+   "categorie": "Hotdogs",
    "prijs": 8.95
   },
   {
    "id": "924",
    "naam": "DYNAMITE",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.95
   },
   {
@@ -714,31 +696,31 @@
   {
    "id": "926",
    "naam": "MILKSHAKE DELUXE KLEIN",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 3.95
   },
   {
    "id": "927",
    "naam": "MILKSHAKE DELUXE MIDDEL",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.95
   },
   {
    "id": "928",
    "naam": "MILKSHAKE DELUXE GROOT",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 5.75
   },
   {
    "id": "929",
    "naam": "VEGAN KIPKORN",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 2.95
   },
   {
    "id": "930",
    "naam": "SUNDAE MET NUTELLA®",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.5
   },
   {
@@ -756,169 +738,169 @@
   {
    "id": "934",
    "naam": "CROQUET BURGER",
-   "categorie": "🍔BURGERS",
+   "categorie": "Burgers",
    "prijs": 6.95
   },
   {
    "id": "935",
    "naam": "TORI KATSU SUB SANDO",
-   "categorie": "🥪 BELEGDE BROODJES",
+   "categorie": "Belegde broodjes",
    "prijs": 9.95
   },
   {
    "id": "936",
    "naam": "KOREAN CORN RIBS (6)",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.5
   },
   {
    "id": "939",
    "naam": "CAJUN MUSHROOM BITES (6)",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.5
   },
   {
    "id": "940",
    "naam": "OESTERZWAM BITTERBALLEN (6)",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.95
   },
   {
    "id": "941",
    "naam": "RAZZLE",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.95
   },
   {
    "id": "942",
    "naam": "BEKER IJS KLEIN",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.45
   },
   {
    "id": "943",
    "naam": "BEKER IJS MIDDEL",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 5.45
   },
   {
    "id": "944",
    "naam": "BEKER IJS GROOT",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 6.45
   },
   {
    "id": "945",
    "naam": "PATAT KLEIN",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 2.6
   },
   {
    "id": "946",
    "naam": "PATAT SPECIAAL",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 3.6
   },
   {
    "id": "947",
    "naam": "PATAT OORLOG",
-   "categorie": "🍟PATAT",
+   "categorie": "Patat",
    "prijs": 3.6
   },
   {
    "id": "948",
    "naam": "CHICKEN STRIPS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 4.6
   },
   {
    "id": "949",
    "naam": "SNACKBAR!",
-   "categorie": "🌭SNACKS",
+   "categorie": "Snacks",
    "prijs": 14.95
   },
   {
    "id": "950",
    "naam": "BUCKET FAMILY",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 20.95
   },
   {
    "id": "951",
    "naam": "BUCKET HOT & SPICY",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 23.95
   },
   {
    "id": "952",
    "naam": "BUCKET BONELESS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 23.95
   },
   {
    "id": "953",
    "naam": "BUCKET HOTWINGS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 18.65
   },
   {
    "id": "954",
    "naam": "BUCKET STRIPS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 21.2
   },
   {
    "id": "955",
    "naam": "FRIED CHICKEN",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 5.95
   },
   {
    "id": "956",
    "naam": "CAULI WINGS",
-   "categorie": "🧆 SNACK'N SHARE",
+   "categorie": "Snack'n Share",
    "prijs": 3.35
   },
   {
    "id": "957",
    "naam": "CHURROS",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.45
   },
   {
    "id": "958",
    "naam": "CHURROS MET NUTELLA®",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 4.95
   },
   {
    "id": "959",
    "naam": "BUCKET CHURROS",
-   "categorie": "🍦 IJS & SHAKES",
+   "categorie": "IJs & Shakes",
    "prijs": 10.95
   },
   {
    "id": "960",
    "naam": "THE PASTRAMI DOG",
-   "categorie": "🌭HOTDOGS",
+   "categorie": "Hotdogs",
    "prijs": 11.95
   },
   {
    "id": "961",
    "naam": "THE CHEESY BACON DOG",
-   "categorie": "🌭HOTDOGS",
+   "categorie": "Hotdogs",
    "prijs": 9.95
   },
   {
    "id": "962",
    "naam": "THE TEX-MEX DOG",
-   "categorie": "🌭HOTDOGS",
+   "categorie": "Hotdogs",
    "prijs": 11.95
   },
   {
    "id": "963",
    "naam": "THE BACON WRAPPED DOG",
-   "categorie": "🌭HOTDOGS",
+   "categorie": "Hotdogs",
    "prijs": 9.95
   },
   {

@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-06T23:14:32.954Z",
+ "bijgewerkt": "2026-11-07T16:52:45.961Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 152,
+ "aantal": 154,
  "gerechten": [
   {
    "id": "168",
@@ -914,6 +914,18 @@
    "naam": "TRAKTEERBOX",
    "categorie": "💼 ZAKELIJK",
    "prijs": 23.75
+  },
+  {
+   "id": "967",
+   "naam": "THE ORIGINAL MAC",
+   "categorie": "Loaded mac & cheese",
+   "prijs": 9.95
+  },
+  {
+   "id": "968",
+   "naam": "MAC SJIEK",
+   "categorie": "Loaded mac & cheese",
+   "prijs": 9.95
   }
  ]
 }

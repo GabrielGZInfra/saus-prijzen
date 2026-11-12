@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-12T03:52:10.707Z",
+ "bijgewerkt": "2026-11-12T20:53:49.429Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 153,
+ "aantal": 154,
  "gerechten": [
   {
    "id": "168",
@@ -920,6 +920,12 @@
    "naam": "THE ORIGINAL MAC",
    "categorie": "Loaded mac & cheese",
    "prijs": 9.95
+  },
+  {
+   "id": "969",
+   "naam": "DIRTY SMASH MAC",
+   "categorie": "Loaded mac & cheese",
+   "prijs": 12.95
   }
  ]
 }

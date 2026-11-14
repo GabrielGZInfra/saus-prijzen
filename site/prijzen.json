@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-14T14:14:58.248Z",
+ "bijgewerkt": "2026-11-14T15:58:29.381Z",
  "bron": "https://www.anytymeveldwijk.nl/",
  "aantal": 156,
  "gerechten": [
@@ -7,145 +7,169 @@
    "id": "168",
    "naam": "PATAT MIDDEL",
    "categorie": "Patat",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef09e77a5f_Gemini_Generated_Image_8bppmn8bppmn8bpp.png-c.webp"
   },
   {
    "id": "169",
    "naam": "PATAT GROOT",
    "categorie": "Patat",
-   "prijs": 3.95
+   "prijs": 3.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef0a867872_Gemini_Generated_Image_flcfj5flcfj5flcf.png-c.webp"
   },
   {
    "id": "170",
    "naam": "GEZINSZAK PATAT",
    "categorie": "Patat",
-   "prijs": 8.25
+   "prijs": 8.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef0b61e8fe_Gemini_Generated_Image_flcfj5flcfj5flcf.png-c.webp"
   },
   {
    "id": "175",
    "naam": "VLEESKROKET",
    "categorie": "Snacks",
-   "prijs": 2.2
+   "prijs": 2.2,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a328c6aebd56_Ad_van_Geloven_Draadjesvleeskroket_3950_300dpi_2000x1333px_K_NR-10110.png-c.webp"
   },
   {
    "id": "179",
    "naam": "FRIKANDEL",
    "categorie": "Snacks",
-   "prijs": 2.2
+   "prijs": 2.2,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a328fb998e62_Van_Liesout_Bikfrik_1010_300dpi_2000x1333px_K_NR-10100.png-c.webp"
   },
   {
    "id": "180",
    "naam": "FRIKANDEL SPECIAAL",
    "categorie": "Snacks",
-   "prijs": 3
+   "prijs": 3,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698f31ed75cbd_Gemini_Generated_Image_80s67l80s67l80s6.png-c.webp"
   },
   {
    "id": "181",
    "naam": "XXL FRIKANDEL",
    "categorie": "Snacks",
-   "prijs": 4.75
+   "prijs": 4.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef40bc206f_XXL_frikandel_other_hi_res_no_badge.png-c.webp"
   },
   {
    "id": "182",
    "naam": "XXL FRIKANDEL SPECIAAL",
    "categorie": "Snacks",
-   "prijs": 5.25
+   "prijs": 5.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698f33ae81799_Gemini_Generated_Image_5v8r635v8r635v8r.png-c.webp"
   },
   {
    "id": "183",
    "naam": "BAMISCHIJF",
    "categorie": "Snacks",
-   "prijs": 2.85
+   "prijs": 2.85,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef26c2e584_large.png-c.webp"
   },
   {
    "id": "273",
    "naam": "Fritessaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/624ebe3aa7cae_fritessaus-png.png-c.webp"
   },
   {
    "id": "274",
    "naam": "Brandermayonaise",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/624ebe63a3a6e_11_brandermayo.png-c.webp"
   },
   {
    "id": "314",
    "naam": "CATAMARAN",
    "categorie": "Loaded plates",
-   "prijs": 7.95
+   "prijs": 7.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698a20fa0202f_Ontwerp_zonder_titel_(27).png-c.webp"
   },
   {
    "id": "494",
    "naam": "Joppiesaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/624ebf6009012_joppiesaus-png.png-c.webp"
   },
   {
    "id": "495",
    "naam": "Speciaal met currysaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/624ebf73f276c_speciaal-met-ui-png.png-c.webp"
   },
   {
    "id": "496",
    "naam": "Oorlogsaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/624ebf83e9952_oorlog-met-ui-png.png-c.webp"
   },
   {
    "id": "497",
    "naam": "Satésaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/624ebfea75321_satesaus-png.png-c.webp"
   },
   {
    "id": "611",
    "naam": "SOUFLESSE KAAS",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a328ce30c48e_Souflesse_Kaas_1065_300dpi_2000x1333px_K_NR-10137.png-c.webp"
   },
   {
    "id": "698",
    "naam": "KINDERBOX",
    "categorie": "Kinderbox",
-   "prijs": 6.95
+   "prijs": 6.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698a51f2cf872_Ontwerp_zonder_titel_(44).png-c.webp"
   },
   {
    "id": "699",
    "naam": "TWISTER FRIES",
    "categorie": "Patat",
-   "prijs": 3.75
+   "prijs": 3.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698da1b83e5c2_Gemini_Generated_Image_38flo438flo438fl.png-c.webp"
   },
   {
    "id": "700",
    "naam": "AARDAPPELSCHIJFJES",
    "categorie": "Patat",
-   "prijs": 3.75
+   "prijs": 3.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698da24547a45_Gemini_Generated_Image_bodz00bodz00bodz.png-c.webp"
   },
   {
    "id": "701",
    "naam": "KIPNUGGETS",
    "categorie": "Snack'n Share",
-   "prijs": 5.5
+   "prijs": 5.5,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698f27ab88cd4_Ontwerp_zonder_titel_(54).png-c.webp"
   },
   {
    "id": "702",
    "naam": "ONION RINGS",
    "categorie": "Snack'n Share",
-   "prijs": 3.35
+   "prijs": 3.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698f26344caba_Gemini_Generated_Image_rs7fs0rs7fs0rs7f.png-c.webp"
   },
   {
    "id": "705",
    "naam": "BITTERBALLEN",
    "categorie": "Snack'n Share",
-   "prijs": 4.2
+   "prijs": 4.2,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698f2795de093_Ontwerp_zonder_titel_(55).png-c.webp"
   },
   {
    "id": "707",
    "naam": "KALFSVLEES CROQUET",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a328e35ce70f_Van_Dobben_Kalfsvlees_corquet_24010_300dpi_2000x1333px_K_NR-10212.png-c.webp"
   },
   {
    "id": "708",
@@ -163,61 +187,71 @@
    "id": "711",
    "naam": "NASISCHIJF",
    "categorie": "Snacks",
-   "prijs": 2.85
+   "prijs": 2.85,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef27f72a99_large_(1).png-c.webp"
   },
   {
    "id": "712",
    "naam": "KIPKORN",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef2a258ce8_Mora-Kipkorn_Zonder-BG_other_hi_res_no_badge.png-c.webp"
   },
   {
    "id": "713",
    "naam": "SHOARMAROL",
    "categorie": "Snacks",
-   "prijs": 3.25
+   "prijs": 3.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef2c321239_large_(2).png-c.webp"
   },
   {
    "id": "716",
    "naam": "MEXICANO",
    "categorie": "Snacks",
-   "prijs": 3.25
+   "prijs": 3.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef32b21006_Ontwerp_zonder_titel.png-c.webp"
   },
   {
    "id": "717",
    "naam": "BEREHAP",
    "categorie": "Snacks",
-   "prijs": 4.25
+   "prijs": 4.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef391e00ef_Ontwerp_zonder_titel_(2).png-c.webp"
   },
   {
    "id": "719",
    "naam": "PIKANTO",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef3573c5af_Mora-Picanto_Zonder-BG_other_hi_res_no_badge.png-c.webp"
   },
   {
    "id": "723",
    "naam": "LOEMPIA",
    "categorie": "Snacks",
-   "prijs": 4.75
+   "prijs": 4.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef3d29ce7f_Ontwerp_zonder_titel_(1).png-c.webp"
   },
   {
    "id": "724",
    "naam": "LOEMPIA SPECIAAL",
    "categorie": "Snacks",
-   "prijs": 5.95
+   "prijs": 5.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69935ff9d70d2_Ontwerp_zonder_titel_(61).png-c.webp"
   },
   {
    "id": "726",
    "naam": "PITTIGE BAMISCHIJF",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a32915c4304c_Ontwerp_zonder_titel_(19).png-c.webp"
   },
   {
    "id": "727",
    "naam": "PITTIGE NASISCHIJF",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a32921910869_Ontwerp_zonder_titel_(20).png-c.webp"
   },
   {
    "id": "728",
@@ -229,565 +263,797 @@
    "id": "749",
    "naam": "SATAY",
    "categorie": "Belegde broodjes",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ac65658e8644_satay.png-c.webp"
   },
   {
    "id": "766",
    "naam": "COCA-COLA",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f532f91d75_ecom-coca-cola-regular-330ml-blik.png-c.webp"
   },
   {
    "id": "767",
    "naam": "COCA-COLA ZERO",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f52938f121_ecom-coca-cola-zero-sugar-330ml-blik.png-c.webp"
   },
   {
    "id": "768",
    "naam": "COCA-COLA ZERO CHERRY",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f544293338_coca-cola-zero-sugar-cherry-e-commerce-330ml.png-c.webp"
   },
   {
    "id": "769",
    "naam": "COCA-COLA CHERRY",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f536578cd5_coca-cola-cherry-e-commerce-330ml.png-c.webp"
   },
   {
    "id": "770",
    "naam": "FANTA ORANGE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f5465f1b30_ren2308-00157_shop_fzo_canslk_330ml_ned_fr_d_closed_5000112659566_568.png-c.webp"
   },
   {
    "id": "771",
    "naam": "FANTA ORANGE ZERO SUGAR",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f538ceba5d_ren2308-00157_shop_fzo_canslk_330ml_ned_fr_d_closed_5000112659566_568.png-c.webp"
   },
   {
    "id": "772",
    "naam": "FANTA LEMON ZERO SUGAR",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53b916dd1_ren2309-00540_shop_fzl_canslk_330ml_ned_fr_d_closed_5000112659573_751.png-c.webp"
   },
   {
    "id": "773",
    "naam": "FANTA CASSIS",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f5396e4533_ren2309-00539_shop_fc_canslk_330ml_ned_fr_d_closed_5000112659610_114.png-c.webp"
   },
   {
    "id": "774",
    "naam": "FUZE TEA BLACK TEA",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53d6f036d_ren2102-00312_shop_6325636_fusl_330ml_canslk_fr_bel_d_5449000297549.png-c.webp"
   },
   {
    "id": "775",
    "naam": "FUZE TEA GREEN TEA",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53c7ec9a9_ren2107-00150_shop_6470016_fugt_330ml_canslk_fr_ned_d_5449000303004.png-c.webp"
   },
   {
    "id": "776",
    "naam": "FUZE TEA PEACH HIBISCUS",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53e092654_ren2103-00198_shop_6340024_fuph_330ml_canslk_fr_bel_d_5449000236890.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "777",
    "naam": "FUZE TEA GREEN TEA MANGO CHAMOMILE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53e83e5af_ren2103-00196_shop_6339889_fumc_330ml_canslk_fr_bel_d_5449000236258.png-c.webp"
   },
   {
    "id": "778",
    "naam": "SPRITE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53a677f75_sprite-no-sugar-330-blik.png-c.webp"
   },
   {
    "id": "779",
    "naam": "FERNANDES SUPER PINEAPPLE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f5403bd115_2240742-fernandes-sp-330ml-can-sleek-shoptimised.png-c.webp"
   },
   {
    "id": "780",
    "naam": "FERNANDES CHERRY BOUQUET",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f540e08b4b_2240742-fernandes-cb-330ml-can-sleek-shoptimised.png-c.webp"
   },
   {
    "id": "781",
    "naam": "FERNANDES RED GRAPE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f541670dd8_2240742-fernandes-rg-330ml-can-sleek-shoptimised.png-c.webp"
   },
   {
    "id": "782",
    "naam": "CHAUDFONTAINE SPARKLING",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f54b107a9b_ren2009-00102_shop_6180914_chs_500ml_lbl_fr_bel_d_con_5449000111715.png-c.webp"
   },
   {
    "id": "783",
    "naam": "CHAUDFONTAINE STILL",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f54b948f02_ren2009-00095_shop_6179897_chst_500ml_lbl_fr_bel_d_con_5449000111678.png-c.webp"
   },
   {
    "id": "784",
    "naam": "CAPRI-SUN ORANGE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 1.5
+   "prijs": 1.5,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f55441fc74_capri-sun-orange.png-c.webp"
   },
   {
    "id": "799",
    "naam": "HOTWINGS",
    "categorie": "Snack'n Share",
-   "prijs": 3.95
+   "prijs": 3.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/68277fa1993da_518-Family-Chicken-Hotwings-Crispy-2x25kg.png-c.webp"
   },
   {
    "id": "810",
    "naam": "Appelmoes",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6839c45d5bfef_appelmoes-png.png-c.webp"
   },
   {
    "id": "811",
    "naam": "Currysaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6839c498d94f4_curry-png.png-c.webp"
   },
   {
    "id": "812",
    "naam": "Speciaal met ketchup",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6839c501dd86e_speciaal-met-ketchup-en-ui-png.png-c.webp"
   },
   {
    "id": "813",
    "naam": "Ketchup",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6839c5416f44f_tomaten-ketchup-png.png-c.webp"
   },
   {
    "id": "814",
    "naam": "Warme Cheddarsaus",
    "categorie": "🍯 SAUZEN",
-   "prijs": 1.1
+   "prijs": 1.1,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6839c59e85639_creamy-cheese-style-png.png-c.webp"
   },
   {
    "id": "824",
    "naam": "CHILI CHEESE NUGGETS",
    "categorie": "Snack'n Share",
-   "prijs": 3.35
+   "prijs": 3.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698f264e64d23_Gemini_Generated_Image_1ln7ie1ln7ie1ln7.png-c.webp"
   },
   {
    "id": "826",
    "naam": "MAC'N'CHEESE BITES",
    "categorie": "Snack'n Share",
-   "prijs": 3.35
+   "prijs": 3.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/68723afa43d4d_mac-n-cheese-bites-e2-1200x1200-crop.png-c.webp"
   },
   {
    "id": "844",
    "naam": "CHICKEN BITES",
    "categorie": "Snack'n Share",
-   "prijs": 5.45
+   "prijs": 5.45,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69173d5142130_Afbeelding_van_WhatsApp_op_2025-11-14_om_15.png-c.webp"
   },
   {
    "id": "846",
    "naam": "ORIGINAL SMASH BURGER",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad5d7ec9_smash-stacks-sitedish.png-c.webp"
   },
   {
    "id": "847",
    "naam": "HOT & SPICY FRIES",
    "categorie": "Loaded fries",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/690dd364896ca_lf-hotspicy.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "848",
    "naam": "ASIAN BBQ FRIES",
    "categorie": "Loaded fries",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/690dd43b2a590_asian-bbq-style-lr.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "850",
    "naam": "VEGAN SMASH BURGER",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698b1cbe33595_Gemini_Generated_Image_p7jh0mp7jh0mp7jh.png-c.webp"
   },
   {
    "id": "855",
    "naam": "SCHNITZEL WARME SAUS",
    "categorie": "Loaded plates",
-   "prijs": 14.95
+   "prijs": 14.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698a217251579_Ontwerp_zonder_titel_(30).png-c.webp"
   },
   {
    "id": "856",
    "naam": "SCHNITZEL BUITENGOOIER",
    "categorie": "Loaded plates",
-   "prijs": 14.95
+   "prijs": 14.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698a212857a9b_Ontwerp_zonder_titel_(25).png-c.webp"
   },
   {
    "id": "857",
    "naam": "HOUTHAKKERSCHNITZEL",
    "categorie": "Loaded plates",
-   "prijs": 14.95
+   "prijs": 14.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698a211e845df_Ontwerp_zonder_titel_(26).png-c.webp"
   },
   {
    "id": "858",
    "naam": "JALAPENO CRUNCH SMASH",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad713423_jalapeno-crunch-stacks-sitedish.png-c.webp"
   },
   {
    "id": "859",
    "naam": "JOPPIE BACON SMASH",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad6700c8_joppie-bacon-stacks-sitedish.png-c.webp"
   },
   {
    "id": "860",
    "naam": "SJIEK DE FRITES",
    "categorie": "Loaded fries",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69861fb8637c2_WhatsApp_Image_2025-11-07_at_16.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "861",
    "naam": "THE ORIGINAL",
    "categorie": "Loaded fries",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69861fd1aa068_WhatsApp_Image_2025-11-07_at_16.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "863",
    "naam": "LOADED ONION RINGS CHEESY JALAPEÑO",
    "categorie": "Loaded onion rings",
-   "prijs": 7.95
+   "prijs": 7.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6989f2a7156d3_Ontwerp_zonder_titel_(22).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "864",
    "naam": "LOADED ONION RINGS TURKEY B.L.T.",
    "categorie": "Loaded onion rings",
-   "prijs": 7.95
+   "prijs": 7.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6989f36605207_Ontwerp_zonder_titel_(23).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "865",
    "naam": "LOADED ONION RINGS KOREAN BBQ KIMCHI",
    "categorie": "Loaded onion rings",
-   "prijs": 7.95
+   "prijs": 7.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6989f3c2dfb8e_Ontwerp_zonder_titel_(24).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "868",
    "naam": "JALAPEÑO CRUNCHY CHICKEN",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698b1fd4354ba_Ontwerp_zonder_titel_(17).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "869",
    "naam": "PEPPER CHICKEN",
    "categorie": "Burgers",
-   "prijs": 10.95
+   "prijs": 10.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698b2107a6b2d_Ontwerp_zonder_titel_(18).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "870",
    "naam": "MONSTER ENERGY",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698deb1860f67_default.png-c.webp"
   },
   {
    "id": "871",
    "naam": "MONSTER ENERGY MANGO LOCO",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698deb2fdfad5_default_(1).png-c.webp"
   },
   {
    "id": "872",
    "naam": "CRISPY KIMCHI DELUXE",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698df1cf7524d_Gemini_Generated_Image_r2mb4nr2mb4nr2mb.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "873",
    "naam": "VEGAN GREEN CRUNCH BURGER",
    "categorie": "Burgers",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698dfa2e1e483_Gemini_Generated_Image_xkwoggxkwoggxkwo.png-c.webp"
   },
   {
    "id": "874",
    "naam": "MAC SMASH STACKER",
    "categorie": "Burgers",
-   "prijs": 10.95
+   "prijs": 10.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/698ef0dc804d4_Gemini_Generated_Image_te1kwvte1kwvte1k.png-c.webp"
   },
   {
    "id": "875",
    "naam": "NEW YORK STYLE CHOPPED CHEESE",
    "categorie": "Belegde broodjes",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ac655f807d95_chopped-cheese.png-c.webp"
   },
   {
    "id": "877",
    "naam": "MONSTER ENERGY WHITE ULTRA",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/699362a72956a_default_(2).png-c.webp"
   },
   {
    "id": "878",
    "naam": "SPICY SPIRAL SUPREME",
    "categorie": "Loaded fries",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69935de85cca0_Gemini_Generated_Image_72ub6z72ub6z72ub.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "879",
    "naam": "KAAS KIPKORN",
    "categorie": "Snacks",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69935e38b615d_Ontwerp_zonder_titel_(60).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Tweede halve prijs",
+    "omschrijving": "Kaas Kipkorn: de tweede voor de halve prijs."
+   }
   },
   {
    "id": "890",
    "naam": "AMERICAN COOKIE CLASSIC",
    "categorie": "IJs & Shakes",
-   "prijs": 4.95
+   "prijs": 4.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef70e12c5cb_Ontwerp_zonder_titel_(7).png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "891",
    "naam": "AMERICAN COOKIE DOUBLE CHOCOLATE",
    "categorie": "IJs & Shakes",
-   "prijs": 4.95
+   "prijs": 4.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef70f15d608_Ontwerp_zonder_titel_(8).png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "892",
    "naam": "SUNDAE",
    "categorie": "IJs & Shakes",
-   "prijs": 3.95
+   "prijs": 3.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef70c5cff92_Sundae.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "895",
    "naam": "MILKSHAKE KLEIN",
    "categorie": "IJs & Shakes",
-   "prijs": 3.25
+   "prijs": 3.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef712055826_Ontwerp_zonder_titel_(11).png-c.webp"
   },
   {
    "id": "896",
    "naam": "MILKSHAKE MIDDEL",
    "categorie": "IJs & Shakes",
-   "prijs": 4.25
+   "prijs": 4.25,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef711406785_Ontwerp_zonder_titel_(10).png-c.webp"
   },
   {
    "id": "897",
    "naam": "MILKSHAKE GROOT",
    "categorie": "IJs & Shakes",
-   "prijs": 4.95
+   "prijs": 4.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef71094832a_Ontwerp_zonder_titel_(9).png-c.webp"
   },
   {
    "id": "901",
    "naam": "DIRTY FRIES SMASH",
    "categorie": "Loaded fries",
-   "prijs": 12.95
+   "prijs": 12.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a071302eecbd_ChatGPT_Image_15_mei_2026,_14_14_50.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "902",
    "naam": "PASTRAMI CHEESE STEAK",
    "categorie": "Belegde broodjes",
-   "prijs": 12.95
+   "prijs": 12.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ac6562aea150_pastrami-cheese-steak.png-c.webp"
   },
   {
    "id": "903",
    "naam": "VEGAN BORREL BOX",
    "categorie": "Snack'n Share",
-   "prijs": 5.95
+   "prijs": 5.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a09a85740d9f_GRO_Vegan_Borrel_Box.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "904",
    "naam": "PICKLED SUNRISE",
    "categorie": "Burgers",
-   "prijs": 10.95
+   "prijs": 10.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a09ab42b35dc_Pickled_Sunrise_-_hero_v3.png-c.webp"
   },
   {
    "id": "905",
    "naam": "RED BULL ZERO",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a117869b4698_default_(2).png-c.webp"
   },
   {
    "id": "906",
    "naam": "RED BULL SUGERFREE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a11785f04d96_default_(1).png-c.webp"
   },
   {
    "id": "907",
    "naam": "RED BULL ENERGY",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a117850a6a15_default.png-c.webp"
   },
   {
    "id": "908",
    "naam": "ELITE MINISNACK XL",
    "categorie": "Snack'n Share",
-   "prijs": 6.95
+   "prijs": 6.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a11799ddd0f8_large_(1).png-c.webp"
   },
   {
    "id": "909",
    "naam": "LOEMPIDEL",
    "categorie": "Snacks",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a3290ec95459_Ontwerp_zonder_titel_(17).png-c.webp"
   },
   {
    "id": "910",
    "naam": "COCA-COLA VANILLE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a2bd056ceb5e_coca-cola-vanille-ecom-330ml.png-c.webp"
   },
   {
    "id": "911",
    "naam": "COCA-COLA ZERO SUGAR ZERO CAFFEINE",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a2bd0ad14387_coca-cola-zero-zero.png-c.webp"
   },
   {
    "id": "912",
    "naam": "FERNANDES GREEN PUNCH",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a2bd153325b2_2240742-fernandes-gp-330ml-can-sleek-shoptimised.png-c.webp"
   },
   {
    "id": "914",
    "naam": "SOUFLESSE PIKANTE KAAS",
    "categorie": "Snacks",
-   "prijs": 2.75
+   "prijs": 2.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a328dab629e5_Souflesse_Pikante_kaas_1093_300dpi_2000x1333px_K_NR-10140.png-c.webp"
   },
   {
    "id": "915",
    "naam": "FANTA EXOTIC ZERO SUGAR",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a33b3adcb507_op-fanta-exotic-zero-sugar-330ml.png-c.webp"
   },
   {
    "id": "917",
    "naam": "THE TURKEY DOG",
    "categorie": "Hotdogs",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a33ff0d6269c_Ontwerp_zonder_titel_(21).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "918",
    "naam": "THE KOREAN DOG",
    "categorie": "Hotdogs",
-   "prijs": 8.95
+   "prijs": 8.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a33fefe19add_Ontwerp_zonder_titel_(22).png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "924",
    "naam": "DYNAMITE",
    "categorie": "Snacks",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a451c58e790c_Ontwerp_zonder_titel_(18).png-c.webp"
   },
   {
    "id": "925",
    "naam": "FANTA STRAWBERRY KIWI",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35
+   "prijs": 2.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a65ec4224640_ren-2511-00141_shop_fanta_330ml_front_dry_closed_5000112694130_459.png-c.webp"
   },
   {
    "id": "926",
    "naam": "MILKSHAKE DELUXE KLEIN",
    "categorie": "IJs & Shakes",
-   "prijs": 3.95
+   "prijs": 3.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a6f239777015_WhatsApp_Image_2026-04-24_at_16.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Tweede halve prijs",
+    "omschrijving": "Milkshake Deluxe: de tweede voor de halve prijs."
+   }
   },
   {
    "id": "927",
    "naam": "MILKSHAKE DELUXE MIDDEL",
    "categorie": "IJs & Shakes",
-   "prijs": 4.95
+   "prijs": 4.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a6f23e253a6e_WhatsApp_Image_2026-04-24_at_16.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Tweede halve prijs",
+    "omschrijving": "Milkshake Deluxe: de tweede voor de halve prijs."
+   }
   },
   {
    "id": "928",
    "naam": "MILKSHAKE DELUXE GROOT",
    "categorie": "IJs & Shakes",
-   "prijs": 5.75
+   "prijs": 5.75,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a6f2428ae1d9_WhatsApp_Image_2026-04-24_at_16.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Tweede halve prijs",
+    "omschrijving": "Milkshake Deluxe: de tweede voor de halve prijs."
+   }
   },
   {
    "id": "929",
    "naam": "VEGAN KIPKORN",
    "categorie": "Snacks",
-   "prijs": 2.95
+   "prijs": 2.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a7d8ab49e92b_Product_fotografie_Mora_Kipkorn_9103_300dpi_1080x1080px_K_NR-10411.png-c.webp"
   },
   {
    "id": "930",
    "naam": "SUNDAE MET NUTELLA®",
    "categorie": "IJs & Shakes",
-   "prijs": 4.5
+   "prijs": 4.5,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a7f01bedb1d7_sundae-met-nutella-720x450.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "932",
    "naam": "COCA-COLA CREAMY VANILLA",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.15
+   "prijs": 2.15,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ab52bb5608cb_coca-cola-creamy-vanilla_blik_250ml_shop.png-c.webp"
   },
   {
    "id": "933",
    "naam": "COCA-COLA ZERO SUGAR CREAMY VANILLA",
    "categorie": "🥤 FRISDRANK",
-   "prijs": 2.15
+   "prijs": 2.15,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ab52bc34539c_coca-cola_zero_sugar_creamy-vanilla-blik_250ml_shop.png-c.webp"
   },
   {
    "id": "934",
    "naam": "CROQUET BURGER",
    "categorie": "Burgers",
-   "prijs": 6.95
+   "prijs": 6.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6abfaae59ffe9_ChatGPT-afbeelding_2_okt_2026,_14_27_18.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "935",
    "naam": "TORI KATSU SUB SANDO",
    "categorie": "Belegde broodjes",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ac66f8f071d6_tori-katsu-sub-sando.png-c.webp"
   },
   {
    "id": "936",
    "naam": "KOREAN CORN RIBS (6)",
    "categorie": "Snack'n Share",
-   "prijs": 5.5
+   "prijs": 5.5,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6aca4804bfdec_korean-corn-ribs.png-c.webp"
   },
   {
    "id": "939",
    "naam": "CAJUN MUSHROOM BITES (6)",
    "categorie": "Snack'n Share",
-   "prijs": 5.5
+   "prijs": 5.5,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acb930848c4a_cajun-mushroom-bites.png-c.webp"
   },
   {
    "id": "940",
    "naam": "OESTERZWAM BITTERBALLEN (6)",
    "categorie": "Snack'n Share",
-   "prijs": 5.95
+   "prijs": 5.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acb9eabd66fc_oesterzwam-bitterballen.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "941",
    "naam": "RAZZLE",
    "categorie": "IJs & Shakes",
-   "prijs": 4.95
+   "prijs": 4.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acc8f3ddca4a_razzle-kitkat.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "942",
    "naam": "BEKER IJS KLEIN",
    "categorie": "IJs & Shakes",
-   "prijs": 4.45
+   "prijs": 4.45,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acfb15806ad1_beker-ijs.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "943",
    "naam": "BEKER IJS MIDDEL",
    "categorie": "IJs & Shakes",
-   "prijs": 5.45
+   "prijs": 5.45,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acfb4d3d82ca_beker-ijs.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "944",
    "naam": "BEKER IJS GROOT",
    "categorie": "IJs & Shakes",
-   "prijs": 6.45
+   "prijs": 6.45,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acfb28cdb167_beker-ijs.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "945",
@@ -823,121 +1089,244 @@
    "id": "950",
    "naam": "BUCKET FAMILY",
    "categorie": "Snack'n Share",
-   "prijs": 20.95
+   "prijs": 20.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dec990e08_bucket-family-sitedish.png-c.webp"
   },
   {
    "id": "951",
    "naam": "BUCKET HOT & SPICY",
    "categorie": "Snack'n Share",
-   "prijs": 23.95
+   "prijs": 23.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dac4891af_bucket-hot-spicy-sitedish.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "952",
    "naam": "BUCKET BONELESS",
    "categorie": "Snack'n Share",
-   "prijs": 23.95
+   "prijs": 23.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad48c36c_bucket-boneless-sitedish.png-c.webp"
   },
   {
    "id": "953",
    "naam": "BUCKET HOTWINGS",
    "categorie": "Snack'n Share",
-   "prijs": 18.65
+   "prijs": 18.65,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad4ecc3e_bucket-hotwings-sitedish.png-c.webp"
   },
   {
    "id": "954",
    "naam": "BUCKET STRIPS",
    "categorie": "Snack'n Share",
-   "prijs": 21.2
+   "prijs": 21.2,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad5581f0_bucket-strips-sitedish.png-c.webp"
   },
   {
    "id": "955",
    "naam": "FRIED CHICKEN",
    "categorie": "Snack'n Share",
-   "prijs": 5.95
+   "prijs": 5.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad226399baa4_fried-chicken.png-c.webp"
   },
   {
    "id": "956",
    "naam": "CAULI WINGS",
    "categorie": "Snack'n Share",
-   "prijs": 3.35
+   "prijs": 3.35,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad49948b1149_cauli-wings.png-c.webp"
   },
   {
    "id": "957",
    "naam": "CHURROS",
    "categorie": "IJs & Shakes",
-   "prijs": 4.45
+   "prijs": 4.45,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6adb56c21ebc1_churros.png-c.webp"
   },
   {
    "id": "958",
    "naam": "CHURROS MET NUTELLA®",
    "categorie": "IJs & Shakes",
-   "prijs": 4.95
+   "prijs": 4.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6adb56da6d4c7_churros-nutella.png-c.webp"
   },
   {
    "id": "959",
    "naam": "BUCKET CHURROS",
    "categorie": "IJs & Shakes",
-   "prijs": 7.95
+   "prijs": 7.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6adb57048a9a0_churros-bucket.png-c.webp"
   },
   {
    "id": "960",
    "naam": "THE PASTRAMI DOG",
    "categorie": "Hotdogs",
-   "prijs": 11.95
+   "prijs": 11.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49aac547cb_image.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "961",
    "naam": "THE CHEESY BACON DOG",
    "categorie": "Hotdogs",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49b219e2f4_image.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "962",
    "naam": "THE TEX-MEX DOG",
    "categorie": "Hotdogs",
-   "prijs": 11.95
+   "prijs": 11.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae4b1e265ab0_image.png-c.webp",
+   "uitverkocht": true,
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "963",
    "naam": "THE BACON WRAPPED DOG",
    "categorie": "Hotdogs",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae4b1ca4053f_image.png-c.webp",
+   "uitverkocht": true,
+   "actie": {
+    "label": "1 kopen, 1 met 50% korting.",
+    "kort": "2e halve prijs",
+    "soort": "half",
+    "titel": "Actie",
+    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
+   }
   },
   {
    "id": "964",
    "naam": "BORRELBOX",
    "categorie": "💼 ZAKELIJK",
-   "prijs": 56.95
+   "prijs": 56.95,
+   "uitverkocht": true
   },
   {
    "id": "965",
    "naam": "TRAKTEERBOX",
    "categorie": "💼 ZAKELIJK",
-   "prijs": 23.75
+   "prijs": 23.75,
+   "uitverkocht": true
   },
   {
    "id": "967",
    "naam": "THE ORIGINAL MAC",
    "categorie": "Loaded mac & cheese",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6af5ee72cc694_the-original-mac.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 gratis.",
+    "kort": "1+1 gratis",
+    "soort": "gratis",
+    "titel": "1+1 gratis: loaded mac & cheese",
+    "omschrijving": "Bestel een Dirty Smash Mac of The Original Mac en krijg dezelfde gratis. Tot en met zondag 22 november."
+   }
   },
   {
    "id": "969",
    "naam": "DIRTY SMASH MAC",
    "categorie": "Loaded mac & cheese",
-   "prijs": 12.95
+   "prijs": 12.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6af5d6b6df7dd_dirty-smash-mac.png-c.webp",
+   "actie": {
+    "label": "1 kopen, 1 gratis.",
+    "kort": "1+1 gratis",
+    "soort": "gratis",
+    "titel": "1+1 gratis: loaded mac & cheese",
+    "omschrijving": "Bestel een Dirty Smash Mac of The Original Mac en krijg dezelfde gratis. Tot en met zondag 22 november."
+   }
   },
   {
    "id": "971",
    "naam": "TEAMDEAL 5",
    "categorie": "💼 ZAKELIJK",
-   "prijs": 61.75
+   "prijs": 61.75,
+   "uitverkocht": true
   },
   {
    "id": "972",
    "naam": "TEAMDEAL 10",
    "categorie": "💼 ZAKELIJK",
-   "prijs": 123.5
+   "prijs": 123.5,
+   "uitverkocht": true
+  }
+ ],
+ "acties": [
+  {
+   "titel": "1+1 gratis: loaded mac & cheese",
+   "omschrijving": "Bestel een Dirty Smash Mac of The Original Mac en krijg dezelfde gratis. Tot en met zondag 22 november.",
+   "soort": "gratis",
+   "doel": "product967",
+   "gerechten": [
+    "967",
+    "969"
+   ]
+  },
+  {
+   "titel": "Tweede halve prijs",
+   "omschrijving": "Kaas Kipkorn: de tweede voor de halve prijs.",
+   "soort": "half",
+   "doel": "product879",
+   "gerechten": [
+    "879"
+   ]
+  },
+  {
+   "titel": "Tweede halve prijs",
+   "omschrijving": "Milkshake Deluxe: de tweede voor de halve prijs.",
+   "soort": "half",
+   "doel": "product926",
+   "gerechten": [
+    "926",
+    "927",
+    "928"
+   ]
+  },
+  {
+   "titel": "Actie",
+   "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting",
+   "soort": "half",
+   "doel": "categorie82",
+   "gerechten": [
+    "847",
+    "848",
+    "860",
+    "861",
+    "863",
+    "864",
+    "865",
+    "868",
+    "869",
+    "872",
+    "878",
+    "901",
+    "917",
+    "918",
+    "960",
+    "961",
+    "962",
+    "963"
+   ]
   }
  ]
 }

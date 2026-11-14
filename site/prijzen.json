@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-13T23:38:53.414Z",
+ "bijgewerkt": "2026-11-14T14:14:58.248Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 154,
+ "aantal": 156,
  "gerechten": [
   {
    "id": "168",
@@ -877,7 +877,7 @@
    "id": "959",
    "naam": "BUCKET CHURROS",
    "categorie": "IJs & Shakes",
-   "prijs": 10.95
+   "prijs": 7.95
   },
   {
    "id": "960",
@@ -926,6 +926,18 @@
    "naam": "DIRTY SMASH MAC",
    "categorie": "Loaded mac & cheese",
    "prijs": 12.95
+  },
+  {
+   "id": "971",
+   "naam": "TEAMDEAL 5",
+   "categorie": "💼 ZAKELIJK",
+   "prijs": 61.75
+  },
+  {
+   "id": "972",
+   "naam": "TEAMDEAL 10",
+   "categorie": "💼 ZAKELIJK",
+   "prijs": 123.5
   }
  ]
 }

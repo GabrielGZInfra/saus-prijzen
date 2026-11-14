@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+  # Ook direct draaien na een wijziging in het script of deze taak, zodat die meteen op Pages staat.
+  # De commit Prijzen bijgewerkt van de taak zelf start geen nieuwe run (GITHUB_TOKEN).
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/prijzen.yml"
 
 permissions:
   contents: write

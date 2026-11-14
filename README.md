@@ -4,7 +4,7 @@ Prijzen en acties van SAUS (bijsaus.nl), elk uur gelezen uit de openbare bestels
 
 - Uitkomst: https://gabrielgzinfra.github.io/saus-prijzen/prijzen.json
 - Bron: repo-variabele `PRIJZEN_BRON`. Op 14 november 2026 staat die nog op https://www.anytymeveldwijk.nl/; dat adres stuurt door naar https://bestellen.bijsaus.nl/, dus de gegevens komen van de bestelsite. Zonder variabele leest het script https://bestellen.bijsaus.nl/.
-- De taak draait elk uur en kan met de hand gestart worden (Actions > Prijzen ophalen > Run workflow).
+- De taak staat op elk uur, maar GitHub voert geplande runs veel minder vaak uit (op 14-11 om 0.38, 7.37 en 15.14). De taak draait ook direct na een wijziging in scripts/ of in de taak zelf, en kan met de hand gestart worden (Actions > Prijzen ophalen > Run workflow).
 - Commit alleen bij een wijziging, en minstens eens per 12 uur een nieuw tijdstip. De site toont geen prijzen als de data ouder is dan 48 uur.
 - Bij een fout of minder dan 50 gerechten faalt de taak en blijft de vorige versie staan.
 

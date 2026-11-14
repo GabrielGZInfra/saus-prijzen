@@ -28,8 +28,8 @@ try {
     acties = []
 }
 
+// Gerechten op id; binnen een actie blijven de gerechten in de volgorde van de bestelsite (zo toont de carrousel ze)
 const gerechten = opgeschoond(ruw).sort((p, q) => Number(p.id) - Number(q.id))
-for (const b of acties) b.gerechten.sort((p, q) => Number(p) - Number(q))
 
 let vorige = null
 try { vorige = JSON.parse(await readFile(BESTAND, "utf8")) } catch {}

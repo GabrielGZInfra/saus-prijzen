@@ -14,7 +14,7 @@ Prijzen en acties van SAUS (bijsaus.nl), elk uur gelezen uit de openbare bestels
   - `foto`: de foto van de bestelsite;
   - `uitverkocht`: `true` als het gerecht op de bestelsite op uitverkocht staat;
   - `actie`: het actielabel uit SiteDish (`label`, bijvoorbeeld "1 kopen, 1 gratis."), een korte versie voor de site (`kort`: "1+1 gratis" of "2e halve prijs"), de `soort` (gratis, half of anders) en de `titel` en `omschrijving` van de actiebalk die erbij hoort.
-- `acties`: de actiebalken van de bestelsite met `titel`, `omschrijving`, `soort`, `doel` (het product of de categorie waar de balk naar springt) en de `gerechten` die eronder vallen.
+- `acties`: de actiebalken van de bestelsite met `titel`, `omschrijving`, `soort`, `doel` (het product of de categorie waar de balk naar springt) en de `gerechten` die eronder vallen, in de volgorde van de bestelsite.
 
 Sinds 14 november 2026 (optie C uit "SAUS aanbiedingen op bijsaus.nl"). Een actie aanpassen gaat in SiteDish; binnen een uur staat het in prijzen.json. Lukt het lezen van de acties niet, dan gaan de prijzen gewoon door, zonder acties.
 

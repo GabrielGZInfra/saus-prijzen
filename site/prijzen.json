@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-18T04:29:54.900Z",
+ "bijgewerkt": "2026-11-18T22:03:59.451Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 156,
+ "aantal": 155,
  "gerechten": [
   {
    "id": "168",
@@ -471,20 +471,6 @@
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dad5d7ec9_smash-stacks-sitedish.png-c.webp"
   },
   {
-   "id": "847",
-   "naam": "HOT & SPICY FRIES",
-   "categorie": "Loaded fries",
-   "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/690dd364896ca_lf-hotspicy.png-c.webp",
-   "actie": {
-    "label": "1 kopen, 1 met 50% korting.",
-    "kort": "2e halve prijs",
-    "soort": "half",
-    "titel": "Actie",
-    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
-   }
-  },
-  {
    "id": "848",
    "naam": "ASIAN BBQ FRIES",
    "categorie": "Loaded fries",
@@ -693,20 +679,6 @@
    "categorie": "🥤 FRISDRANK",
    "prijs": 2.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/699362a72956a_default_(2).png-c.webp"
-  },
-  {
-   "id": "878",
-   "naam": "SPICY SPIRAL SUPREME",
-   "categorie": "Loaded fries",
-   "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69935de85cca0_Gemini_Generated_Image_72ub6z72ub6z72ub.png-c.webp",
-   "actie": {
-    "label": "1 kopen, 1 met 50% korting.",
-    "kort": "2e halve prijs",
-    "soort": "half",
-    "titel": "Actie",
-    "omschrijving": "🌭HOTDOGS, LOADED FRIES, LOADED ONION RINGS + 1 met 50% korting"
-   }
   },
   {
    "id": "879",
@@ -1162,7 +1134,6 @@
    "categorie": "Hotdogs",
    "prijs": 11.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49aac547cb_image.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1177,7 +1148,6 @@
    "categorie": "Hotdogs",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49b219e2f4_image.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1192,7 +1162,6 @@
    "categorie": "Hotdogs",
    "prijs": 11.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae4b1e265ab0_image.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1207,7 +1176,6 @@
    "categorie": "Hotdogs",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae4b1ca4053f_image.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1271,6 +1239,12 @@
    "categorie": "💼 ZAKELIJK",
    "prijs": 123.5,
    "uitverkocht": true
+  },
+  {
+   "id": "973",
+   "naam": "MAC SJIEK",
+   "categorie": "Loaded mac & cheese",
+   "prijs": 9.95
   }
  ],
  "acties": [
@@ -1319,11 +1293,9 @@
     "868",
     "869",
     "872",
-    "847",
     "848",
     "860",
     "861",
-    "878",
     "901",
     "863",
     "864",

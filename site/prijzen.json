@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-19T13:24:18.425Z",
+ "bijgewerkt": "2026-11-19T22:14:00.531Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 149,
+ "aantal": 150,
  "gerechten": [
   {
    "id": "168",
@@ -1199,6 +1199,13 @@
    "categorie": "Loaded mac & cheese",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afedb5f4431e_saus-mac-sjiek.png-c.webp"
+  },
+  {
+   "id": "974",
+   "naam": "Player 2 Box",
+   "categorie": "Burgers",
+   "prijs": 28.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6aff25d9b8599_0974_player-2-box_echte-blikjes.png-c.webp"
   }
  ],
  "acties": [

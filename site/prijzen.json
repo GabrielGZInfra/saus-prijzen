@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-18T22:03:59.451Z",
+ "bijgewerkt": "2026-11-19T13:24:18.425Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 155,
+ "aantal": 149,
  "gerechten": [
   {
    "id": "168",
@@ -341,8 +341,7 @@
    "naam": "FUZE TEA PEACH HIBISCUS",
    "categorie": "🥤 FRISDRANK",
    "prijs": 2.35,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53e092654_ren2103-00198_shop_6340024_fuph_330ml_canslk_fr_bel_d_5449000236890.png-c.webp",
-   "uitverkocht": true
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53e092654_ren2103-00198_shop_6340024_fuph_330ml_canslk_fr_bel_d_5449000236890.png-c.webp"
   },
   {
    "id": "777",
@@ -475,7 +474,7 @@
    "naam": "ASIAN BBQ FRIES",
    "categorie": "Loaded fries",
    "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/690dd43b2a590_asian-bbq-style-lr.png-c.webp",
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afed6f4823fc_saus-asian-bbq-fries.png-c.webp",
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -531,7 +530,7 @@
    "naam": "SJIEK DE FRITES",
    "categorie": "Loaded fries",
    "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69861fb8637c2_WhatsApp_Image_2025-11-07_at_16.png-c.webp",
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afed72855b48_saus-sjiek-de-frites.png-c.webp",
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -545,7 +544,7 @@
    "naam": "THE ORIGINAL",
    "categorie": "Loaded fries",
    "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69861fd1aa068_WhatsApp_Image_2025-11-07_at_16.png-c.webp",
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afed747bc411_saus-the-original.png-c.webp",
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -744,7 +743,7 @@
    "naam": "DIRTY FRIES SMASH",
    "categorie": "Loaded fries",
    "prijs": 12.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a071302eecbd_ChatGPT_Image_15_mei_2026,_14_14_50.png-c.webp",
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afed764e47b3_saus-dirty-fries-smash.png-c.webp",
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -765,8 +764,7 @@
    "naam": "VEGAN BORREL BOX",
    "categorie": "Snack'n Share",
    "prijs": 5.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a09a85740d9f_GRO_Vegan_Borrel_Box.png-c.webp",
-   "uitverkocht": true
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a09a85740d9f_GRO_Vegan_Borrel_Box.png-c.webp"
   },
   {
    "id": "904",
@@ -774,20 +772,6 @@
    "categorie": "Burgers",
    "prijs": 10.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a09ab42b35dc_Pickled_Sunrise_-_hero_v3.png-c.webp"
-  },
-  {
-   "id": "905",
-   "naam": "RED BULL ZERO",
-   "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a117869b4698_default_(2).png-c.webp"
-  },
-  {
-   "id": "906",
-   "naam": "RED BULL SUGERFREE",
-   "categorie": "🥤 FRISDRANK",
-   "prijs": 2.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a11785f04d96_default_(1).png-c.webp"
   },
   {
    "id": "907",
@@ -963,8 +947,7 @@
    "naam": "CROQUET BURGER",
    "categorie": "Burgers",
    "prijs": 6.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6abfaae59ffe9_ChatGPT-afbeelding_2_okt_2026,_14_27_18.png-c.webp",
-   "uitverkocht": true
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6abfaae59ffe9_ChatGPT-afbeelding_2_okt_2026,_14_27_18.png-c.webp"
   },
   {
    "id": "935",
@@ -992,8 +975,7 @@
    "naam": "OESTERZWAM BITTERBALLEN (6)",
    "categorie": "Snack'n Share",
    "prijs": 5.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acb9eabd66fc_oesterzwam-bitterballen.png-c.webp",
-   "uitverkocht": true
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6acb9eabd66fc_oesterzwam-bitterballen.png-c.webp"
   },
   {
    "id": "941",
@@ -1069,8 +1051,7 @@
    "naam": "BUCKET HOT & SPICY",
    "categorie": "Snack'n Share",
    "prijs": 23.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dac4891af_bucket-hot-spicy-sitedish.png-c.webp",
-   "uitverkocht": true
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ad0dac4891af_bucket-hot-spicy-sitedish.png-c.webp"
   },
   {
    "id": "952",
@@ -1185,20 +1166,6 @@
    }
   },
   {
-   "id": "964",
-   "naam": "BORRELBOX",
-   "categorie": "💼 ZAKELIJK",
-   "prijs": 56.95,
-   "uitverkocht": true
-  },
-  {
-   "id": "965",
-   "naam": "TRAKTEERBOX",
-   "categorie": "💼 ZAKELIJK",
-   "prijs": 23.75,
-   "uitverkocht": true
-  },
-  {
    "id": "967",
    "naam": "THE ORIGINAL MAC",
    "categorie": "Loaded mac & cheese",
@@ -1227,24 +1194,11 @@
    }
   },
   {
-   "id": "971",
-   "naam": "TEAMDEAL 5",
-   "categorie": "💼 ZAKELIJK",
-   "prijs": 61.75,
-   "uitverkocht": true
-  },
-  {
-   "id": "972",
-   "naam": "TEAMDEAL 10",
-   "categorie": "💼 ZAKELIJK",
-   "prijs": 123.5,
-   "uitverkocht": true
-  },
-  {
    "id": "973",
    "naam": "MAC SJIEK",
    "categorie": "Loaded mac & cheese",
-   "prijs": 9.95
+   "prijs": 9.95,
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afedb5f4431e_saus-mac-sjiek.png-c.webp"
   }
  ],
  "acties": [

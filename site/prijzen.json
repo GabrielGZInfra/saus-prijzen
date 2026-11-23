@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-22T22:30:20.198Z",
+ "bijgewerkt": "2026-11-23T14:49:41.137Z",
  "bron": "https://www.anytymeveldwijk.nl/",
  "aantal": 150,
  "gerechten": [
@@ -531,6 +531,7 @@
    "categorie": "Loaded fries",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afed72855b48_saus-sjiek-de-frites.png-c.webp",
+   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -722,21 +723,24 @@
    "naam": "MILKSHAKE KLEIN",
    "categorie": "IJs & Shakes",
    "prijs": 3.25,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef712055826_Ontwerp_zonder_titel_(11).png-c.webp"
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef712055826_Ontwerp_zonder_titel_(11).png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "896",
    "naam": "MILKSHAKE MIDDEL",
    "categorie": "IJs & Shakes",
    "prijs": 4.25,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef711406785_Ontwerp_zonder_titel_(10).png-c.webp"
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef711406785_Ontwerp_zonder_titel_(10).png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "897",
    "naam": "MILKSHAKE GROOT",
    "categorie": "IJs & Shakes",
    "prijs": 4.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef71094832a_Ontwerp_zonder_titel_(9).png-c.webp"
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/69ef71094832a_Ontwerp_zonder_titel_(9).png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "901",
@@ -877,6 +881,7 @@
    "categorie": "IJs & Shakes",
    "prijs": 3.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a6f239777015_WhatsApp_Image_2026-04-24_at_16.png-c.webp",
+   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -891,6 +896,7 @@
    "categorie": "IJs & Shakes",
    "prijs": 4.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a6f23e253a6e_WhatsApp_Image_2026-04-24_at_16.png-c.webp",
+   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -905,6 +911,7 @@
    "categorie": "IJs & Shakes",
    "prijs": 5.75,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6a6f2428ae1d9_WhatsApp_Image_2026-04-24_at_16.png-c.webp",
+   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1170,35 +1177,22 @@
    "naam": "THE ORIGINAL MAC",
    "categorie": "Loaded mac & cheese",
    "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6af5ee72cc694_the-original-mac.png-c.webp",
-   "actie": {
-    "label": "1 kopen, 1 gratis.",
-    "kort": "1+1 gratis",
-    "soort": "gratis",
-    "titel": "1+1 gratis: loaded mac & cheese",
-    "omschrijving": "Bestel een Dirty Smash Mac of The Original Mac en krijg dezelfde gratis. Tot en met zondag 22 november."
-   }
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6af5ee72cc694_the-original-mac.png-c.webp"
   },
   {
    "id": "969",
    "naam": "DIRTY SMASH MAC",
    "categorie": "Loaded mac & cheese",
    "prijs": 12.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6af5d6b6df7dd_dirty-smash-mac.png-c.webp",
-   "actie": {
-    "label": "1 kopen, 1 gratis.",
-    "kort": "1+1 gratis",
-    "soort": "gratis",
-    "titel": "1+1 gratis: loaded mac & cheese",
-    "omschrijving": "Bestel een Dirty Smash Mac of The Original Mac en krijg dezelfde gratis. Tot en met zondag 22 november."
-   }
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6af5d6b6df7dd_dirty-smash-mac.png-c.webp"
   },
   {
    "id": "973",
    "naam": "MAC SJIEK",
    "categorie": "Loaded mac & cheese",
    "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afedb5f4431e_saus-mac-sjiek.png-c.webp"
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afedb5f4431e_saus-mac-sjiek.png-c.webp",
+   "uitverkocht": true
   },
   {
    "id": "974",
@@ -1209,16 +1203,6 @@
   }
  ],
  "acties": [
-  {
-   "titel": "1+1 gratis: loaded mac & cheese",
-   "omschrijving": "Bestel een Dirty Smash Mac of The Original Mac en krijg dezelfde gratis. Tot en met zondag 22 november.",
-   "soort": "gratis",
-   "doel": "product967",
-   "gerechten": [
-    "967",
-    "969"
-   ]
-  },
   {
    "titel": "Tweede halve prijs",
    "omschrijving": "Kaas Kipkorn: de tweede voor de halve prijs.",

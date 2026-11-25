@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-25T05:28:54.780Z",
+ "bijgewerkt": "2026-11-25T17:21:49.872Z",
  "bron": "https://www.anytymeveldwijk.nl/",
  "aantal": 150,
  "gerechten": [
@@ -1122,6 +1122,7 @@
    "categorie": "Hotdogs",
    "prijs": 11.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49aac547cb_image.png-c.webp",
+   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1136,6 +1137,7 @@
    "categorie": "Hotdogs",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49b219e2f4_image.png-c.webp",
+   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",

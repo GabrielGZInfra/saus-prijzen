@@ -1,7 +1,7 @@
 {
- "bijgewerkt": "2026-11-27T02:56:16.903Z",
+ "bijgewerkt": "2026-11-27T22:04:14.031Z",
  "bron": "https://www.anytymeveldwijk.nl/",
- "aantal": 150,
+ "aantal": 149,
  "gerechten": [
   {
    "id": "168",
@@ -351,13 +351,6 @@
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53e83e5af_ren2103-00196_shop_6339889_fumc_330ml_canslk_fr_bel_d_5449000236258.png-c.webp"
   },
   {
-   "id": "778",
-   "naam": "SPRITE",
-   "categorie": "🥤 FRISDRANK",
-   "prijs": 2.35,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/682f53a677f75_sprite-no-sugar-330-blik.png-c.webp"
-  },
-  {
    "id": "779",
    "naam": "FERNANDES SUPER PINEAPPLE",
    "categorie": "🥤 FRISDRANK",
@@ -531,7 +524,6 @@
    "categorie": "Loaded fries",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afed72855b48_saus-sjiek-de-frites.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1122,7 +1114,6 @@
    "categorie": "Hotdogs",
    "prijs": 11.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49aac547cb_image.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1137,7 +1128,6 @@
    "categorie": "Hotdogs",
    "prijs": 9.95,
    "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6ae49b219e2f4_image.png-c.webp",
-   "uitverkocht": true,
    "actie": {
     "label": "1 kopen, 1 met 50% korting.",
     "kort": "2e halve prijs",
@@ -1193,8 +1183,7 @@
    "naam": "MAC SJIEK",
    "categorie": "Loaded mac & cheese",
    "prijs": 9.95,
-   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afedb5f4431e_saus-mac-sjiek.png-c.webp",
-   "uitverkocht": true
+   "foto": "https://cdn.sitedish.nl/bestellen.bijsaus.nl/img/gerechten/6afedb5f4431e_saus-mac-sjiek.png-c.webp"
   },
   {
    "id": "974",
